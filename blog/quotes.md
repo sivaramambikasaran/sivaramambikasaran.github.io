@@ -7,7 +7,7 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">``The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
-- "Real humor contains more inner truth than the most earnest seriousness" -- Nimzowitsch in his book ``My system"
+- ``Real humor contains more inner truth than the most earnest seriousness" -- Nimzowitsch in his book ``My system"
 
 - ``Tactics flow from a superior position" -- Fischer
 
