@@ -11,6 +11,7 @@ Some interesting articles:
 * [Honest discussion about caste in India](http://scroll.in/article/802163/the-two-factors-that-prevent-india-from-having-an-honest-discussion-about-caste)
 * [What does it mean to be educated?](http://www.dam.brown.edu/people/documents/Whatdoesitmeantobeeducated.pdf)
 * [The usefulness of useless knowledge](https://library.ias.edu/files/UsefulnessHarpers.pdf)
+* [In praise of idleness](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
 * [The way society trains individuals to serve the needs of the society](https://www.youtube.com/watch?v=teLoNYvOf90)
 
 Personal writing:
