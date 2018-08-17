@@ -7,6 +7,8 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">``The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- ``Immense Harm Is Caused by the Belief That Work Is Virtuous." -- Bertrand Russell in his essay ``In praise of Idleness"
+
 - ``Education, in the truest self of the term, is a process of self-discovery. It is the art of self-sculpture. It trains the individual not so much in specific skills or in specific branch of knowledge, but in the flowering of his or her latent intellectual, artistic and humanist capacities. The test of education is whether it imparts an urge for learning and learnability, not this or that particular set of information." -- Prime Minister Atal Bihari Vajpayee in his inaugural speech of the Golden Jubilee Celebrations of the University Grants Commission
  
 - ``Real humor contains more inner truth than the most earnest seriousness." -- Nimzowitsch in his book `My system'.
