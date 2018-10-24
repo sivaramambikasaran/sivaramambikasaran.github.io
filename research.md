@@ -19,19 +19,9 @@ The SAFRAN (Stable Accurate Fast Robust Algorithms & Numerics) group was born in
 #### Current
 
 1. Sivaram Ambikasaran (Convenor)
-2. Nachiketa Mishra - (Post Doctoral Fellow, ICTS)
-3. Kandappan - (Ph.D. Student, IISc)
-4. Manisha - (Ph.D. Student, ICTS)
-5. Vaishnavi - (Ph.D. Student, IISc)
-6. Abhay Gupta - (M.Tech. Research Student, IISc)
-
-#### Alumni
-
-1. Richa Naik (Intern, IITM)
-2. Deeksha Koul (Final Year Project student, DAICT)
-3. Karan Raj Singh (Project Assistant, BITS)
-4. Chaitanya Tappu (S.N.Bhat Intern, IISc)
-5. Ankit Kumar (S.N.Bhat Intern, NIT Rourkela)
+2. Kandappan - (Ph.D. Student, IISc)
+3. Vaishnavi - (Ph.D. Student, IISc)
+4. Shyam Sankaran - (Project Associate)
 
 ### Publications
 
