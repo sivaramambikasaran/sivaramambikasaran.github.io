@@ -14,25 +14,6 @@ My research and teaching interests include computational and applied mathematics
 
 The SAFRAN (Stable Accurate Fast Robust Algorithms & Numerics) group was born in April 2016 at IISc and moved to IITM in September 2017. Students interested to be part of the group [can apply for the research program at IITM Madras](https://research.iitm.ac.in/). Interested candidates are strongly encouraged to apply to either the Mathematics Department or the Interdisciplinary program. [More details on the research at Mathematics Department and the Interdisciplinary program can be found here.](https://research.iitm.ac.in/department_list)
 
-### Members:
-
-#### Current
-
-1. Sivaram Ambikasaran (Convenor)
-2. Nachiketa Mishra - (Post Doctoral Fellow, ICTS)
-3. Kandappan - (Ph.D. Student, IISc)
-4. Manisha - (Ph.D. Student, ICTS)
-5. Vaishnavi - (Ph.D. Student, IISc)
-6. Abhay Gupta - (M.Tech. Research Student, IISc)
-
-#### Alumni
-
-1. Richa Naik (Intern, IITM)
-2. Deeksha Koul (Final Year Project student, DAICT)
-3. Karan Raj Singh (Project Assistant, BITS)
-4. Chaitanya Tappu (S.N.Bhat Intern, IISc)
-5. Ankit Kumar (S.N.Bhat Intern, NIT Rourkela)
-
 ### Publications
 
 [Link to Google Scholar](https://scholar.google.co.in/citations?user=h2hgRJoAAAAJ&hl=en)
