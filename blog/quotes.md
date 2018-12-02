@@ -5,31 +5,49 @@ permalink: blog/quotes/
 ---
 Most of these quotes have been stolen from different online resources. Some of them are from conversations I had or overheard. A tiny fraction of them are mine.
 
-<span style="color:lime">``The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
+<span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
-- ``I have never let my schooling interfere with my education." -- Allen Grant (though often it is attributed to Mark Twain)
+- Mikhail Tal's first wife, Salli Landau, described Mikhail's personality:
 
-- ``Only the meek, weak and poor keep talking about fairness, justice and equality." -- Krishnamurti Ramanathan Iyer
+"Misha was so ill-equipped for living... When he travelled to a tournament, he couldn't even pack his own suitcase... He didn't even know how to turn on the gas for cooking. If I had a headache, and there happened to be no one home but him, he would fall into a panic: "How do I make a hot-water bottle?" And when I got behind the wheel of a car, he would look at me as though I were a visitor from another planet. Of course, if he had made some effort, he could have learned all of this. But it was all boring to him. He just didn't need to. A lot of people have said that if Tal had looked after his health, if he hadn't led such a dissolute life... and so forth. But with people like Tal, the idea of "if only" is just absurd. He wouldn't have been Tal then."
 
-- ``Meeting is where minutes are kept and hours are lost"
+- "Immense Harm Is Caused by the Belief That Work Is Virtuous." -- Bertrand Russell in his essay In praise of Idleness
 
-- ``Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." -- Oscar Wilde
+- "Education, in the truest self of the term, is a process of self-discovery. It is the art of self-sculpture. It trains the individual not so much in specific skills or in specific branch of knowledge, but in the flowering of his or her latent intellectual, artistic and humanist capacities. The test of education is whether it imparts an urge for learning and learnability, not this or that particular set of information." -- Prime Minister Atal Bihari Vajpayee in his inaugural speech of the Golden Jubilee Celebrations of the University Grants Commission
+ 
+- "Real humor contains more inner truth than the most earnest seriousness." -- Nimzowitsch in his book `My system'.
 
-- ``I could not become anything; neither good nor bad; neither a scoundrel nor an honest man; neither a hero nor an insect. And now I am eking out my days in my corner, taunting myself with the bitter and entirely useless consolation that an intelligent man cannot seriously become anything, that only a fool can become something." -- Fyodor Dostoevsky
+- "Tactics flow from a superior position" -- Fischer
 
-- ``Tell them that there is nothing to understand." -- U. G. Krishnamurti
+- Nimzowitsch opponent took out a cigarette case and put on the chess table. Nimsowitsch hated cigarette smoke and called the director and filed a complaint.
 
-- ``There is no such thing as a new idea. It is impossible. We simply take a lot of old ideas and put them into a sort of mental kaleidoscope. We give them a turn and they make new and curious combinations." -- Mark Twain
+The director said, "He has not lit a cigarette and there is no smoke. So your complaint is noted but it is not valid."
 
-- ``But what do you do when a department [in a university] goes bad? André Weil suggested that there is a logarithmic law at work: first-rate people attract other first-rate people, but second-rate people tend to hire third-raters, and third-rate people hire fifth-raters. If a dean or a president is genuinely interested in building and maintaining a high-quality university (and some of them are), then he must not grant complete self-determination to a second-rate department; he must, instead, use his administrative powers to intervene and set things right. That's one of the proper functions of deans and presidents, and pity the poor university in which a large proportion of both the faculty and the administration are second-raters; it is doomed to diverge to minus infinity." -- French mathematician André Weil once mentioned to Paul Halmos an unconscious formula that weaker academic departments used when hiring new faculty.
+to which Nimzowitsch replied, "but he threatens to smoke, and being an older player you know that the threat is often stronger than the execution."
 
-- ``The pleasure in the pursuit of useless research is amplified by the fact that it cannot be put to misuse." -- Self
+- "I have never let my schooling interfere with my education." -- Allen Grant (though often it is attributed to Mark Twain)
 
-- ``The pen is mightier than the sword only when people are willing to read/listen. The sword, hence, still has its relevance." -- Self
+- "Only the meek, weak and poor keep talking about fairness, justice and equality." -- Krishnamurti Ramanathan Iyer
 
-- ``Discovery consists of seeing what everybody has seen and thinking what nobody has thought" -- Albert Szent-Györgyi
+- "Meeting is where minutes are kept and hours are lost"
 
-- ``The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man." -- George Bernard Shaw
+- "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." -- Oscar Wilde
+
+- "I could not become anything; neither good nor bad; neither a scoundrel nor an honest man; neither a hero nor an insect. And now I am eking out my days in my corner, taunting myself with the bitter and entirely useless consolation that an intelligent man cannot seriously become anything, that only a fool can become something." -- Fyodor Dostoevsky
+
+- "Tell them that there is nothing to understand." -- U. G. Krishnamurti
+
+- "There is no such thing as a new idea. It is impossible. We simply take a lot of old ideas and put them into a sort of mental kaleidoscope. We give them a turn and they make new and curious combinations." -- Mark Twain
+
+- "But what do you do when a department [in a university] goes bad? André Weil suggested that there is a logarithmic law at work: first-rate people attract other first-rate people, but second-rate people tend to hire third-raters, and third-rate people hire fifth-raters. If a dean or a president is genuinely interested in building and maintaining a high-quality university (and some of them are), then he must not grant complete self-determination to a second-rate department; he must, instead, use his administrative powers to intervene and set things right. That's one of the proper functions of deans and presidents, and pity the poor university in which a large proportion of both the faculty and the administration are second-raters; it is doomed to diverge to minus infinity." -- French mathematician André Weil once mentioned to Paul Halmos an unconscious formula that weaker academic departments used when hiring new faculty.
+
+- "The pleasure in the pursuit of useless research is amplified by the fact that it cannot be put to misuse." -- Self
+
+- "The pen is mightier than the sword only when people are willing to read/listen. The sword, hence, still has its relevance." -- Self
+
+- "Discovery consists of seeing what everybody has seen and thinking what nobody has thought" -- Albert Szent-Györgyi
+
+- "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man." -- George Bernard Shaw
 
 - Six ethics of life<br>
 Before you pray: believe<br>
@@ -40,25 +58,25 @@ Before you quit: try<br>
 Before you die: live<br>
 -- Unknown author
 
-- ``It is better to be not successful in things you find interesting than being successful in things you do not find interesting."
+- "It is better to be not successful in things you find interesting than being successful in things you do not find interesting."
 
-- ``In mathematics, not just number theory alone, in general and probably in science as a whole what you have learn is you have to learn how to use the tools and if you just know one tool and you really know how to use it you can probably make a career out of it." -- Maruti Ram Pedaprolu Murty, while talking about Abel's partial summation technique as part of Analytical Number Theory short course at the Institute of Mathematical Sciences, Chennai, India
+- "In mathematics, not just number theory alone, in general and probably in science as a whole what you have learn is you have to learn how to use the tools and if you just know one tool and you really know how to use it you can probably make a career out of it." -- Maruti Ram Pedaprolu Murty, while talking about Abel's partial summation technique as part of Analytical Number Theory short course at the Institute of Mathematical Sciences, Chennai, India
 
-- ``To do high, real good physics work you do need absolutely solid lengths of time, so that when you’re putting ideas together which are vague and hard to remember, it’s very much like building a house of cards and each of the cards is shaky, and if you forget one of them the whole thing collapses again. You don’t know how you got there and you have to build them up again, and if you’re interrupted and kind of forget half the idea of how the cards went together—your cards being different-type parts of the ideas, ideas of different kinds that have to go together to build up the idea—the main point is, you put the stuff together, it’s quite a tower and it’s easy [for it] to slip, it needs a lot of concentration—that is, solid time to think—and if you’ve got a job in administrating anything like that, then you don’t have the solid time." So I have invented another myth for myself—that I’m irresponsible. I tell everybody, I don’t do anything. If anybody asks me to be on a committee to take care of admissions, no, I’m irresponsible, I don’t give a damn about the students—of course I give a damn about the students but I know that somebody else’ll do it—and I take the view, “Let George do it,” a view which you’re not supposed to take, okay, because that’s not right to do, but I do that because I like to do physics and I want to see if I can still do it, and so I’m selfish, okay?" -- Richard Feynman
+- "To do high, real good physics work you do need absolutely solid lengths of time, so that when you’re putting ideas together which are vague and hard to remember, it’s very much like building a house of cards and each of the cards is shaky, and if you forget one of them the whole thing collapses again. You don’t know how you got there and you have to build them up again, and if you’re interrupted and kind of forget half the idea of how the cards went together—your cards being different-type parts of the ideas, ideas of different kinds that have to go together to build up the idea—the main point is, you put the stuff together, it’s quite a tower and it’s easy [for it] to slip, it needs a lot of concentration—that is, solid time to think—and if you’ve got a job in administrating anything like that, then you don’t have the solid time." So I have invented another myth for myself—that I’m irresponsible. I tell everybody, I don’t do anything. If anybody asks me to be on a committee to take care of admissions, no, I’m irresponsible, I don’t give a damn about the students—of course I give a damn about the students but I know that somebody else’ll do it—and I take the view, “Let George do it,” a view which you’re not supposed to take, okay, because that’s not right to do, but I do that because I like to do physics and I want to see if I can still do it, and so I’m selfish, okay?" -- Richard Feynman
 
-- ``A good computation is the one that does the least computation to obtain the right answer." -- Self
+- "A good computation is the one that does the least computation to obtain the right answer." -- Self
 
-- ``It is more worthy to believe in good people than in God." -- Self
+- "It is more worthy to believe in good people than in God." -- Self
 
-- ``Everyone should be respected as an individual, but no one idolized." -- Albert Einstein
+- "Everyone should be respected as an individual, but no one idolized." -- Albert Einstein
 
-- ``The opposite of courage in our society is not cowardice, it is conformity." -- Rollo May
+- "The opposite of courage in our society is not cowardice, it is conformity." -- Rollo May
 
-- ``If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?" -- Albert Einstein
+- "If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?" -- Albert Einstein
 
-- ``We are drowning in data but starving for knowledge".
+- "We are drowning in data but starving for knowledge".
 
-- ``Water, water, everywhere,
+- "Water, water, everywhere,
 Nor any drop to drink.
 Data, data, everywhere,
 No one knows a thing."
