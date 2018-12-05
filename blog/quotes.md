@@ -7,6 +7,10 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- Mikhail Tal's first wife, Salli Landau, described Mikhail's personality:
+
+"Misha was so ill-equipped for living... When he travelled to a tournament, he couldn't even pack his own suitcase... He didn't even know how to turn on the gas for cooking. If I had a headache, and there happened to be no one home but him, he would fall into a panic: "How do I make a hot-water bottle?" And when I got behind the wheel of a car, he would look at me as though I were a visitor from another planet. Of course, if he had made some effort, he could have learned all of this. But it was all boring to him. He just didn't need to. A lot of people have said that if Tal had looked after his health, if he hadn't led such a dissolute life... and so forth. But with people like Tal, the idea of "if only" is just absurd. He wouldn't have been Tal then."
+
 - "Immense Harm Is Caused by the Belief That Work Is Virtuous." -- Bertrand Russell in his essay In praise of Idleness
 
 - "Education, in the truest self of the term, is a process of self-discovery. It is the art of self-sculpture. It trains the individual not so much in specific skills or in specific branch of knowledge, but in the flowering of his or her latent intellectual, artistic and humanist capacities. The test of education is whether it imparts an urge for learning and learnability, not this or that particular set of information." -- Prime Minister Atal Bihari Vajpayee in his inaugural speech of the Golden Jubilee Celebrations of the University Grants Commission
