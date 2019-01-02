@@ -7,6 +7,8 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- Andy Roberts (around 36-37 minutes into the documentary Fire in Babylon), when asked if he felt right on him and Michael Holding terrorizing and hitting the English batsemen with their bowling on 1976 England tour. "I always feel when I hit a batsman. The sympathy is in here (pointing to his heart); You may not see it and I cannot show the batsman that. It is just that I have a job to do."
+
 
 - "I felt that chess... is a science in the form of a game... I consider myself a scientist. I wanted to be treated like a scientist." -- Fischer
 
