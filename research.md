@@ -3,14 +3,17 @@ layout: page
 title: 
 permalink: /research/
 ---
+
+<img src="SAFRAN_Logo.png" alt="SAFRAN" width="textwidth">
+
 <span style="color:orange">``Research is what I am doing when I don't know what I am doing." -- Wernher von Braun
 </span>
 
 <img src="./image.png" width="100%">
 
-My research and teaching interests include computational and applied mathematics. In particular, my current research focuses on constructing highly accurate fast algorithms leveraging approximation theory and numerical linear algebra.
+My research and teaching interests include computational and applied mathematics. In particular, our group's current research focuses on constructing highly accurate fast algorithms leveraging approximation theory and numerical linear algebra. Our group publishes open software along with the algorithms and we regard open software for algorithms on par with theorems for mathematics. Our group firmly believes in open research (open access, open public review, open source).
 
-<img src="SAFRAN_Logo.png" alt="SAFRAN" width="200">
+<img src="OAlogo.jpg" alt="OA" width="200">
 
 The SAFRAN (Stable Accurate Fast Robust Algorithms & Numerics) group was born in April 2016 at IISc and moved to IITM in September 2017. Students interested to be part of the group [can apply for the research program at IITM Madras](https://research.iitm.ac.in/). Interested candidates are strongly encouraged to apply to either the Mathematics Department or the Interdisciplinary program. [More details on the research at Mathematics Department and the Interdisciplinary program can be found here.](https://research.iitm.ac.in/department_list)
 
@@ -28,22 +31,24 @@ The SAFRAN (Stable Accurate Fast Robust Algorithms & Numerics) group was born in
 
 [Link to Google Scholar](https://scholar.google.co.in/citations?user=h2hgRJoAAAAJ&hl=en)
 
-1. Daniel Foreman-Mackey, Eric Agol, Ruth Angus, <span style="color:magenta">**Sivaram Ambikasaran**</span>, "[Fast and scalable Gaussian process modeling with applications to astronomical time series](https://arxiv.org/abs/1703.09710)", Submitted to AAS journals.
-2. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Krithika Narayanaswamy, "[An accurate, fast, mathematically robust, universal, non-iterative algorithm for computing multi-component diffusion velocities](http://www.sciencedirect.com/science/article/pii/S1540748916300554)", Proceedings of Combustion Institute.
-3. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Carlos Borges, Lise-Marie Imbert-Gerard, Leslie Greengard, "[Fast, adaptive, high order discretization of the Lippmann-Schwinger equation in two dimension](http://epubs.siam.org/doi/abs/10.1137/15M102455X)", SIAM Journal of Scientific Computing
-4. <span style="color:magenta">**Sivaram Ambikasaran**</span>, "[Generalized Rybicki Press algorithm](http://onlinelibrary.wiley.com/doi/10.1002/nla.2003/full)", Numerical Linear Algebra with Applications.
-5. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Michael O'Neil, Karan Raj Singh, "[Fast symmetric factorization of hierarchical matrices with applications](https://arxiv.org/abs/1405.0223)"
-6. Amirhossein Aminfar, <span style="color:magenta">**Sivaram Ambikasaran**</span>, Eric Darve, ``[A fast block low-rank dense solver with applications to finite-element matrices](http://www.sciencedirect.com/science/article/pii/S0021999115006750)", Journal of Computational Physics
-7. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Daniel Foreman-Mackey, Leslie Greengard, David W Hogg, Michael O'Neil, ``[Fast Direct Methods for Gaussian Processes](http://ieeexplore.ieee.org/document/7130620/?reload=true)", Transactions on Pattern Analysis and Machine Intelligence
-8. Jun Lai, <span style="color:magenta">**Sivaram Ambikasaran**</span>, Leslie F Greengard, ``[A fast direct solver for high frequency scattering from a large cavity in two dimensions](http://epubs.siam.org/doi/abs/10.1137/140964904)", SIAM Journal of Scientific Computing
-9. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Eric Darve, "[The Inverse Fast Multipole Method](http://arxiv.org/abs/1407.1572)"
-10. Judith Y Li, <span style="color:magenta">**Sivaram Ambikasaran**</span>, Eric Darve, Peter K Kitanidis, "[A Kalman filter powered by ℋ<sup>2</sup>-matrices for quasi-continuous data assimilation problems](http://onlinelibrary.wiley.com/wol1/doi/10.1002/2013WR014607/abstract)", Water Resources Research.
-11. <span style="color:magenta">**Sivaram Ambikasaran**</span>, "[Fast Algorithms for Dense Numerical Linear Algebra and Applications, Stanford Thesis](https://purl.stanford.edu/tj786mf7514)", Stanford Thesis
-12. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Arvind Krishna Saibaba, Eric Darve, Peter K Kitanidis, "[Fast Algorithms for Bayesian Inversion](https://link.springer.com/chapter/10.1007/978-1-4614-7434-0_5)", The IMA Volumes in Mathematics and its Applications
-13. Arvind Krishna Saibaba, <span style="color:magenta">**Sivaram Ambikasaran**</span>, Judith Y Li, Peter K Kitanidis, Eric Darve, "[Application of hierarchical matrices in geostatistics](https://ogst.ifpenergiesnouvelles.fr/articles/ogst/abs/2012/05/ogst120061/ogst120061.html)", Oil & Gas Science and Technology - Revue d'IFP Energies Nouvelles.
-14. Sivaram Ambikasaran, Judith Y Li, Peter K Kitanidis, Eric Darve, "[Large-scale stochastic linear inversion using hierarchical matrices](https://link.springer.com/article/10.1007/s10596-013-9364-0)", Computational Geosciences.
-15. <span style="color:magenta">**Sivaram Ambikasaran**</span>, and Eric Darve, "[An 𝒪(*N*log*N*) fast direct solver for partially hierarchical semi-separable matrices](https://link.springer.com/article/10.1007/s10915-013-9714-z)", Journal of Scientific Computing.
-16. K. Bhaskar, <span style="color:magenta">**Sivaram Ambikasaran**</span>, ``[Untruncated infinite series superposition method for accurate flexural analysis of isotropic/orthotropic rectangular plates with arbitrary edge conditions](http://www.sciencedirect.com/science/article/pii/S0263822307001067)", Composite Structures.
+17. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Karan Raj Singh, Shyam Sundar Sankaran, "[HODLRlib: A Library for Hierarchical Matrices
+](https://joss.theoj.org/papers/13a04e93261c02391266de3566257e15)", Journal of Open Source Software
+16. Daniel Foreman-Mackey, Eric Agol, Ruth Angus, <span style="color:magenta">**Sivaram Ambikasaran**</span>, "[Fast and scalable Gaussian process modeling with applications to astronomical time series](https://arxiv.org/abs/1703.09710)", The Astronomical Journal.
+15. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Krithika Narayanaswamy, "[An accurate, fast, mathematically robust, universal, non-iterative algorithm for computing multi-component diffusion velocities](http://www.sciencedirect.com/science/article/pii/S1540748916300554)", Proceedings of Combustion Institute.
+14. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Carlos Borges, Lise-Marie Imbert-Gerard, Leslie Greengard, "[Fast, adaptive, high order discretization of the Lippmann-Schwinger equation in two dimension](http://epubs.siam.org/doi/abs/10.1137/15M102455X)", SIAM Journal of Scientific Computing
+13. <span style="color:magenta">**Sivaram Ambikasaran**</span>, "[Generalized Rybicki Press algorithm](http://onlinelibrary.wiley.com/doi/10.1002/nla.2003/full)", Numerical Linear Algebra with Applications.
+12. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Michael O'Neil, Karan Raj Singh, "[Fast symmetric factorization of hierarchical matrices with applications](https://arxiv.org/abs/1405.0223)"
+11. Amirhossein Aminfar, <span style="color:magenta">**Sivaram Ambikasaran**</span>, Eric Darve, ``[A fast block low-rank dense solver with applications to finite-element matrices](http://www.sciencedirect.com/science/article/pii/S0021999115006750)", Journal of Computational Physics
+10. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Daniel Foreman-Mackey, Leslie Greengard, David W Hogg, Michael O'Neil, ``[Fast Direct Methods for Gaussian Processes](http://ieeexplore.ieee.org/document/7130620/?reload=true)", Transactions on Pattern Analysis and Machine Intelligence
+9. Jun Lai, <span style="color:magenta">**Sivaram Ambikasaran**</span>, Leslie F Greengard, ``[A fast direct solver for high frequency scattering from a large cavity in two dimensions](http://epubs.siam.org/doi/abs/10.1137/140964904)", SIAM Journal of Scientific Computing
+8. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Eric Darve, "[The Inverse Fast Multipole Method](http://arxiv.org/abs/1407.1572)"
+7. Judith Y Li, <span style="color:magenta">**Sivaram Ambikasaran**</span>, Eric Darve, Peter K Kitanidis, "[A Kalman filter powered by ℋ<sup>2</sup>-matrices for quasi-continuous data assimilation problems](http://onlinelibrary.wiley.com/wol1/doi/10.1002/2013WR014607/abstract)", Water Resources Research.
+6. <span style="color:magenta">**Sivaram Ambikasaran**</span>, "[Fast Algorithms for Dense Numerical Linear Algebra and Applications, Stanford Thesis](https://purl.stanford.edu/tj786mf7514)", Stanford Thesis
+5. <span style="color:magenta">**Sivaram Ambikasaran**</span>, Arvind Krishna Saibaba, Eric Darve, Peter K Kitanidis, "[Fast Algorithms for Bayesian Inversion](https://link.springer.com/chapter/10.1007/978-1-4614-7434-0_5)", The IMA Volumes in Mathematics and its Applications
+4. Arvind Krishna Saibaba, <span style="color:magenta">**Sivaram Ambikasaran**</span>, Judith Y Li, Peter K Kitanidis, Eric Darve, "[Application of hierarchical matrices in geostatistics](https://ogst.ifpenergiesnouvelles.fr/articles/ogst/abs/2012/05/ogst120061/ogst120061.html)", Oil & Gas Science and Technology - Revue d'IFP Energies Nouvelles.
+3. Sivaram Ambikasaran, Judith Y Li, Peter K Kitanidis, Eric Darve, "[Large-scale stochastic linear inversion using hierarchical matrices](https://link.springer.com/article/10.1007/s10596-013-9364-0)", Computational Geosciences.
+2. <span style="color:magenta">**Sivaram Ambikasaran**</span>, and Eric Darve, "[An 𝒪(*N*log*N*) fast direct solver for partially hierarchical semi-separable matrices](https://link.springer.com/article/10.1007/s10915-013-9714-z)", Journal of Scientific Computing.
+1. K. Bhaskar, <span style="color:magenta">**Sivaram Ambikasaran**</span>, ``[Untruncated infinite series superposition method for accurate flexural analysis of isotropic/orthotropic rectangular plates with arbitrary edge conditions](http://www.sciencedirect.com/science/article/pii/S0263822307001067)", Composite Structures.
 {: reversed="reversed"}
 
 ## Sample Research
