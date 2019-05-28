@@ -10,6 +10,10 @@
 - title: "Teaching"
   href: "/teaching/"
   subcategories:
+	- subtitle: "Aug-Dec 2019: Numerical Methods & Scientific Computing"
+      subhref: "http://sivaramambikasaran.com/2019_NMSC/"
+    - subtitle: "Aug-Dec 2019: Numerical Linear Algebra"
+      subhref: "http://sivaramambikasaran.com/2019_NLA/" 
     - subtitle: "Jan-May 2019: Computer Modelling and Simulation"
       subhref: "http://sivaramambikasaran.com/2019_CMS/"
     - subtitle: "Jan-May 2019: Probability, Statistics and Stochastic Process"
