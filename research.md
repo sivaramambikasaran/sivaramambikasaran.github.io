@@ -22,9 +22,9 @@ The SAFRAN (Stable Accurate Fast Robust Algorithms & Numerics) group was born in
 #### Current
 
 1. Sivaram Ambikasaran (Convenor)
-2. Kandappan - (Ph.D. Student, IISc)
-3. Vaishnavi - (Ph.D. Student, IISc)
-4. Ritesh Khan - (Ph.D. Student, IISc)
+2. Kandappan - (Ph.D. Student, IITM)
+3. Vaishnavi - (Ph.D. Student, IITM)
+4. Ritesh Khan - (Ph.D. Student, IITM)
 
 
 ### Publications
