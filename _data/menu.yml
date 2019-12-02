@@ -1,8 +1,8 @@
-- title: "Short Bio"
+- title: "Bio"
   href: "/bio/"
 
-- title: "CV"
-  href: "/cv/"
+# - title: "CV"
+#   href: "/cv/"
 
 - title: "Research"
   href: "/research/"
