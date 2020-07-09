@@ -17,13 +17,13 @@ A collection of some of my notes. Some of them were written for teaching purpose
 * [Eisenstein's criterion for polynomial irreducibility](https://drive.google.com/file/d/1Hqj5yuQ2oYjS76k0MIdVq8SatPKkRUnm/view?usp=sharing)
 * [Vandermonde matrix](https://drive.google.com/file/d/1yV6mNc5-SNmRaJzFbeS-Wb8ymyhjNtVd/view?usp=sharing)
 * [AM-GM inequality](https://drive.google.com/file/d/1vApOTxqhAdr8qlZEOQT4Vo95gCi1DThw/view?usp=sharing)
-* [Newton's and Maclaurin's inequality](https://www.dropbox.com/s/12efg5pjaer5qat/Newton_%26_Maclaurin_inequality.pdf?dl=0)
-* [Cauchy Schwarz Inequality](https://www.dropbox.com/s/wisgu4h32yt7ohk/Cauchy_Schwarz_inequality.pdf?dl=0)
-* [Diagonalization of symmetric matrices](https://www.dropbox.com/s/t1phpgyl7xy9abg/Diagonalisation_Of_Symmetric_Matrices.pdf?dl=0)
-* [Eigenvalues and eigenvectors of circulant matrices](https://www.dropbox.com/s/3zxoku60wocluom/Circulant_Matrices.pdf?dl=0)
-* [Least square and least norm](https://www.dropbox.com/s/r90vve2o3yx0kqw/Least_Squares_%26_Least_Norm.pdf?dl=0)
-* [Gershgorin Circle theorem](https://www.dropbox.com/s/c3f5ce894fkcveg/Gershgorin_Circle_Theorem.pdf?dl=0)
-* [Young's inequality](https://www.dropbox.com/s/8cwk5p5ugdp4svx/Young%27s_inequality.pdf?dl=0)
+* [Newton's and Maclaurin's inequality](https://drive.google.com/file/d/1664lybxSiU2sMVUDbs-ZxkaeHJya6hnU/view?usp=sharing)
+* [Cauchy Schwarz Inequality](https://drive.google.com/file/d/1hq-ejvypbD1U3MI1NQdqRIWfrfB7vwx8/view?usp=sharing)
+* [Diagonalization of symmetric matrices](https://drive.google.com/file/d/1Hw-zU23teTBv66UxFf7xotGDzXoFGMol/view?usp=sharing)
+* [Eigenvalues and eigenvectors of circulant matrices](https://drive.google.com/file/d/16gs2kxtLnfVGSEHt3G7u8rBd0SYhTRgr/view?usp=sharing)
+* [Least square and least norm](https://drive.google.com/file/d/1H35NtK89pCepuor3YLM04sQET4mK-0hF/view?usp=sharing)
+* [Gershgorin Circle theorem](https://drive.google.com/file/d/1tYLE7y1bPtf-_xnLPjWn3YIcgXR0z9Y3/view?usp=sharing)
+* [Young's inequality](https://drive.google.com/file/d/1lU06fdwtnoE6ItmUS5RjWYB-YFzVBqwN/view?usp=sharing)
 
 <!--	ANALYSIS	-->
 <!--	ANALYSIS	-->
