@@ -14,9 +14,9 @@ A collection of some of my notes. Some of them were written for teaching purpose
 
 #### Algebra
 
-* [Eisenstein's criterion for polynomial irreducibility](https://www.dropbox.com/s/wkk23wl15zi4q07/Eisenstein_criterion.pdf?dl=0)
-* [Vandermonde matrix](https://www.dropbox.com/s/ut697c021ykbm2x/Vandermonde_matrix.pdf?dl=0)
-* [AM-GM inequality](https://www.dropbox.com/s/di37wk4w9o223x0/AM_GM_inequality.pdf?dl=0)
+* [Eisenstein's criterion for polynomial irreducibility](https://drive.google.com/file/d/1Hqj5yuQ2oYjS76k0MIdVq8SatPKkRUnm/view?usp=sharing)
+* [Vandermonde matrix](https://drive.google.com/file/d/1yV6mNc5-SNmRaJzFbeS-Wb8ymyhjNtVd/view?usp=sharing)
+* [AM-GM inequality](https://drive.google.com/file/d/1vApOTxqhAdr8qlZEOQT4Vo95gCi1DThw/view?usp=sharing)
 * [Newton's and Maclaurin's inequality](https://www.dropbox.com/s/12efg5pjaer5qat/Newton_%26_Maclaurin_inequality.pdf?dl=0)
 * [Cauchy Schwarz Inequality](https://www.dropbox.com/s/wisgu4h32yt7ohk/Cauchy_Schwarz_inequality.pdf?dl=0)
 * [Diagonalization of symmetric matrices](https://www.dropbox.com/s/t1phpgyl7xy9abg/Diagonalisation_Of_Symmetric_Matrices.pdf?dl=0)
