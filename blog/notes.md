@@ -33,10 +33,12 @@ A collection of some of my notes. Some of them were written for teaching purpose
 
 #### Analysis
 
-<li> <a href="https://drive.google.com/file/d/1UAft7Tc1RVqryXO5vX9jTvu0w--NcZI7/view?usp=sharing">Different ways of proving \(\displaystyle\int_{\mathbb{R}} e^{-x^2}dx\)</a></li>_
+#### 
 
-<li> <a href="https://drive.google.com/file/d/13ObnVZBAHAgNLWLMtqjENF-errZCyvBl/view?usp=sharing">Evaluating \(\displaystyle \int_0^{\pi/2} \sin^k(t) dt\) or \(\displaystyle \int_0^{\pi/2} \cos^k(t) dt\)</a></li>
-<li> <a href="https://drive.google.com/file/d/1y52rEzYuhnedPvyUnszfuZy3i74P4oec/view?usp=sharing">Wallis formula: \(\dfrac{\pi}2 = \displaystyle \prod_{n=1}^{\infty} \left(\dfrac{2n}{2n-1} \cdot \dfrac{2n}{2n+1}\right)\) and asymptotic of the central binomial coefficient</a></li>_
+* [Different ways of proving \(\displaystyle\int_{\mathbb{R}} e^{-x^2}dx\)](https://drive.google.com/file/d/1UAft7Tc1RVqryXO5vX9jTvu0w--NcZI7/view?usp=sharing)
+* [Evaluating \(\displaystyle \int_0^{\pi/2} \sin^k(t) dt\) or \(\displaystyle \int_0^{\pi/2} \cos^k(t) dt\)](https://drive.google.com/file/d/13ObnVZBAHAgNLWLMtqjENF-errZCyvBl/view?usp=sharing)
+* [Wallis formula: \(\dfrac{\pi}2 = \displaystyle \prod_{n=1}^{\infty} \left(\dfrac{2n}{2n-1} \cdot \dfrac{2n}{2n+1}\right)\) and asymptotic of the central binomial coefficient](https://drive.google.com/file/d/1y52rEzYuhnedPvyUnszfuZy3i74P4oec/view?usp=sharing)
+* 
 
 <li> <a href="https://www.dropbox.com/s/ixm65p4rxbxpf82/DeMoivre_formula_and_Striling_formula.pdf?dl=0">De Moivre's and Stirling's formula</a> </li>
 <li> <a href="https://www.dropbox.com/s/8g3t62p5myazpnx/POS.pdf?dl=0">An identity on product of sines</a></li>
