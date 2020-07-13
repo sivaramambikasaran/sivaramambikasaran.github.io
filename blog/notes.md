@@ -33,8 +33,6 @@ A collection of some of my notes. Some of them were written for teaching purpose
 
 #### Analysis
 
-#### 
-
 * [Different ways of proving \(\displaystyle\int_{\mathbb{R}} e^{-x^2}dx\)](https://drive.google.com/file/d/1UAft7Tc1RVqryXO5vX9jTvu0w--NcZI7/view?usp=sharing)
 * [Evaluating \(\displaystyle \int_0^{\pi/2} \sin^k(t) dt\) or \(\displaystyle \int_0^{\pi/2} \cos^k(t) dt\)](https://drive.google.com/file/d/13ObnVZBAHAgNLWLMtqjENF-errZCyvBl/view?usp=sharing)
 * [Wallis formula: \(\dfrac{\pi}2 = \displaystyle \prod_{n=1}^{\infty} \left(\dfrac{2n}{2n-1} \cdot \dfrac{2n}{2n+1}\right)\) and asymptotic of the central binomial coefficient](https://drive.google.com/file/d/1y52rEzYuhnedPvyUnszfuZy3i74P4oec/view?usp=sharing)
