@@ -34,31 +34,34 @@ A collection of some of my notes. Some of them were written for teaching purpose
 #### Analysis
 
 * [Different ways of proving \(\displaystyle\int_{\mathbb{R}} e^{-x^2}dx\)](https://drive.google.com/file/d/1UAft7Tc1RVqryXO5vX9jTvu0w--NcZI7/view?usp=sharing)
+
 * [Evaluating \(\displaystyle \int_0^{\pi/2} \sin^k(t) dt\) or \(\displaystyle \int_0^{\pi/2} \cos^k(t) dt\)](https://drive.google.com/file/d/13ObnVZBAHAgNLWLMtqjENF-errZCyvBl/view?usp=sharing)
+
 * [Wallis formula: \(\dfrac{\pi}2 = \displaystyle \prod_{n=1}^{\infty} \left(\dfrac{2n}{2n-1} \cdot \dfrac{2n}{2n+1}\right)\) and asymptotic of the central binomial coefficient](https://drive.google.com/file/d/1y52rEzYuhnedPvyUnszfuZy3i74P4oec/view?usp=sharing)
+
 * 
 
-<li> <a href="https://www.dropbox.com/s/ixm65p4rxbxpf82/DeMoivre_formula_and_Striling_formula.pdf?dl=0">De Moivre's and Stirling's formula</a> </li>
-<li> <a href="https://www.dropbox.com/s/8g3t62p5myazpnx/POS.pdf?dl=0">An identity on product of sines</a></li>
-<li> <a href="https://www.dropbox.com/s/2v6mrwu8w1wiok8/Ostrowski_Theorem.pdf?dl=0">Ostrowski's Theorem</a></li>
-<li> <a href="https://www.dropbox.com/s/sbue7shetos6j3w/Fresnel_Integral.pdf?dl=0">Fresnel integral</a></li>
-<li> <a href="https://www.dropbox.com/s/w2xiu8788338fx2/integrate_ln_sin.pdf?dl=0">\(\displaystyle \int_0^{\pi}\ln(\sin(x))dx = -\pi \ln(2)\)</a></li>
-<li> <a href="https://www.dropbox.com/s/f2z58boupqu5uwz/Frullani_Integral.pdf?dl=0">Frullani Integral</a></li>
-<li> <a href="https://www.dropbox.com/s/9iov1qw5i61zzza/Bernoulli_Inequality.pdf?dl=0">Bernoulli Inequality</a></li>
-<li> <a href="https://www.dropbox.com/s/lf58tu3z3zu0w4f/TrigIdentity.pdf?dl=0">Summation of sine and cosine</a></li>
-<li> <a href="https://www.dropbox.com/s/imfywebvbabebj0/1_over_a_b_sin.pdf?dl=0">Evaluating \(\displaystyle \int_0^{\pi/2} \dfrac{dt}{1+r\sin(t)}\) and related integrals </a></li>
-<li> <a href="https://www.dropbox.com/s/eqzcbfa9q34rbbb/limit_n_power_one_over_n.pdf?dl=0">An elegant way to prove that \(\lim_{n \to \infty} n^{1/n}=1\)</a></li>
-<li> <a href="https://www.dropbox.com/s/csqxgvt8mfeszit/Infinite_Product_Identity.pdf?dl=0">An infinite product identity; Solution to SIAM problem posted by Carlo Sanna</a></li>
-<li> <a href="https://www.dropbox.com/s/3oqdozohtlwm30n/Divergence_of_harmonic_Sum.pdf?dl=0">Divergence of harmonic series</a></li>
-<li> <a href="https://www.dropbox.com/s/01k5w0lgl8n5i50/Least_Upper_Bound%2CBounded_Monotone_Sequence%2CNested_Intervals.pdf?dl=0">Completeness of \(\mathbb{R}\)</a></li>
-<li> <a href="https://www.dropbox.com/s/vnrsbwkrnxyjo92/regularizing_a_divergent_series.pdf?dl=0">A new way of regularizing sums of the form \(1^k+2^k+\cdots+n^k+\cdots\)</a></li>
-<li> <a href="https://www.dropbox.com/s/oppm1lopzdr02pi/motivation.pdf?dl=0">Motivation for doing real analysis course</a></li>
-<li> <a href="https://www.dropbox.com/s/dzdw3wugj8x3mrc/Weierstrass_Approximation.pdf?dl=0">Weierstrass approximation theorem</a></li>
-<li> <a href="https://www.dropbox.com/s/roik6xjr47qwm14/Markov_%26_Chebyshev_Inequalities.pdf?dl=0">Markov and Chebyshev inequalities</a></li>
-<li> <a href="https://www.dropbox.com/s/xpkxvxnd39o5nq6/Holder_inequality.pdf?dl=0">Holder's inequality</a></li>
-<li> <a href="https://www.dropbox.com/s/hi0g0k1wjdeak5i/Minkowski_inequality.pdf?dl=0">Minkowski's inequality</a></li>
-<li><a href="https://www.dropbox.com/s/1oa13kvoqac7k6z/Cantor_Intersection_Theorem.pdf?dl=0">Cantor's intersection theorem</a></li>
-<li><a href="https://www.dropbox.com/s/btsm9v21r8646xq/Bolzano_Weierstrass.pdf?dl=0">Bolzano Weirstrass Theorem</a></li>
+  <li> <a href="https://www.dropbox.com/s/ixm65p4rxbxpf82/DeMoivre_formula_and_Striling_formula.pdf?dl=0">De Moivre's and Stirling's formula</a> </li>
+  <li> <a href="https://www.dropbox.com/s/8g3t62p5myazpnx/POS.pdf?dl=0">An identity on product of sines</a></li>
+  <li> <a href="https://www.dropbox.com/s/2v6mrwu8w1wiok8/Ostrowski_Theorem.pdf?dl=0">Ostrowski's Theorem</a></li>
+  <li> <a href="https://www.dropbox.com/s/sbue7shetos6j3w/Fresnel_Integral.pdf?dl=0">Fresnel integral</a></li>
+  <li> <a href="https://www.dropbox.com/s/w2xiu8788338fx2/integrate_ln_sin.pdf?dl=0">\(\displaystyle \int_0^{\pi}\ln(\sin(x))dx = -\pi \ln(2)\)</a></li>
+  <li> <a href="https://www.dropbox.com/s/f2z58boupqu5uwz/Frullani_Integral.pdf?dl=0">Frullani Integral</a></li>
+  <li> <a href="https://www.dropbox.com/s/9iov1qw5i61zzza/Bernoulli_Inequality.pdf?dl=0">Bernoulli Inequality</a></li>
+  <li> <a href="https://www.dropbox.com/s/lf58tu3z3zu0w4f/TrigIdentity.pdf?dl=0">Summation of sine and cosine</a></li>
+  <li> <a href="https://www.dropbox.com/s/imfywebvbabebj0/1_over_a_b_sin.pdf?dl=0">Evaluating \(\displaystyle \int_0^{\pi/2} \dfrac{dt}{1+r\sin(t)}\) and related integrals </a></li>
+  <li> <a href="https://www.dropbox.com/s/eqzcbfa9q34rbbb/limit_n_power_one_over_n.pdf?dl=0">An elegant way to prove that \(\lim_{n \to \infty} n^{1/n}=1\)</a></li>
+  <li> <a href="https://www.dropbox.com/s/csqxgvt8mfeszit/Infinite_Product_Identity.pdf?dl=0">An infinite product identity; Solution to SIAM problem posted by Carlo Sanna</a></li>
+  <li> <a href="https://www.dropbox.com/s/3oqdozohtlwm30n/Divergence_of_harmonic_Sum.pdf?dl=0">Divergence of harmonic series</a></li>
+  <li> <a href="https://www.dropbox.com/s/01k5w0lgl8n5i50/Least_Upper_Bound%2CBounded_Monotone_Sequence%2CNested_Intervals.pdf?dl=0">Completeness of \(\mathbb{R}\)</a></li>
+  <li> <a href="https://www.dropbox.com/s/vnrsbwkrnxyjo92/regularizing_a_divergent_series.pdf?dl=0">A new way of regularizing sums of the form \(1^k+2^k+\cdots+n^k+\cdots\)</a></li>
+  <li> <a href="https://www.dropbox.com/s/oppm1lopzdr02pi/motivation.pdf?dl=0">Motivation for doing real analysis course</a></li>
+  <li> <a href="https://www.dropbox.com/s/dzdw3wugj8x3mrc/Weierstrass_Approximation.pdf?dl=0">Weierstrass approximation theorem</a></li>
+  <li> <a href="https://www.dropbox.com/s/roik6xjr47qwm14/Markov_%26_Chebyshev_Inequalities.pdf?dl=0">Markov and Chebyshev inequalities</a></li>
+  <li> <a href="https://www.dropbox.com/s/xpkxvxnd39o5nq6/Holder_inequality.pdf?dl=0">Holder's inequality</a></li>
+  <li> <a href="https://www.dropbox.com/s/hi0g0k1wjdeak5i/Minkowski_inequality.pdf?dl=0">Minkowski's inequality</a></li>
+  <li><a href="https://www.dropbox.com/s/1oa13kvoqac7k6z/Cantor_Intersection_Theorem.pdf?dl=0">Cantor's intersection theorem</a></li>
+  <li><a href="https://www.dropbox.com/s/btsm9v21r8646xq/Bolzano_Weierstrass.pdf?dl=0">Bolzano Weirstrass Theorem</a></li>
 
 <!--	COMBINATORICS	-->
 <!--	COMBINATORICS	-->
