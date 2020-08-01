@@ -12,6 +12,7 @@ This page serves as a directory for the courses I am teaching and have taught.
 
 ## Indian Institute of Technology Madras
 
+10. Aug-Dec, 2020: [Applied Statistics](http://sivaramambikasaran.com/2020_APPSTAT/)
 9. Jan-May, 2020: [Numerical Optimization](http://sivaramambikasaran.com/2020_NOPT/)
 8. Jan-May, 2020: [Probability, Statistics and Stochastic Process](http://sivaramambikasaran.com/2020_PSS/)
 7. Aug-Dec, 2019: [Numerical Linear Algebra](http://sivaramambikasaran.com/2019_NLA/)

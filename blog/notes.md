@@ -51,42 +51,45 @@ A collection of some of my notes. Some of them were written for teaching purpose
 
 
 
-<li> <a href="https://www.dropbox.com/s/8g3t62p5myazpnx/POS.pdf?dl=0">An identity on product of sines</a></li>
+<li> <a href="https://drive.google.com/file/d/1ft8VXsLoPZaqPv2By30hZ4f5RZ88WzF-/view?usp=sharing">An identity on product of sines</a></li>
 
 
 
-<li> <a href="https://www.dropbox.com/s/2v6mrwu8w1wiok8/Ostrowski_Theorem.pdf?dl=0">Ostrowski's Theorem</a></li>
+<li> <a href="https://drive.google.com/file/d/1VVJEWrFEE-JYtSv_8c6h_FVAIN2o-M-4/view?usp=sharing">Ostrowski's Theorem</a></li>
 
 
 
-<li> <a href="https://www.dropbox.com/s/sbue7shetos6j3w/Fresnel_Integral.pdf?dl=0">Fresnel integral</a></li>
+<li> <a href="https://drive.google.com/file/d/1EF878rpOPGkiLL9ING1heM87geVJonfm/view?usp=sharing">Fresnel integral</a></li>
 
 
 
-<li> <a href="https://www.dropbox.com/s/w2xiu8788338fx2/integrate_ln_sin.pdf?dl=0">\(\displaystyle \int_0^{\pi}\ln(\sin(x))dx = -\pi \ln(2)\)</a></li>
+<li> <a href="https://drive.google.com/file/d/1OU6m1Tf976IKB-UkEkyuXme1r8jkRM9h/view?usp=sharing">\(\displaystyle \int_0^{\pi}\ln(\sin(x))dx = -\pi \ln(2)\)</a></li>
 
 
 
-<li> <a href="https://www.dropbox.com/s/f2z58boupqu5uwz/Frullani_Integral.pdf?dl=0">Frullani Integral</a></li>
+<li> <a href="https://drive.google.com/file/d/1WvumGrGHOP9757OcOpwwXZQ-XEFrU1x9/view?usp=sharing">Frullani Integral</a></li>
 
 
 
-<li> <a href="https://www.dropbox.com/s/9iov1qw5i61zzza/Bernoulli_Inequality.pdf?dl=0">Bernoulli Inequality</a></li>
+<li> <a href="https://drive.google.com/file/d/1A7NhmuwPz2bP5TIdTi7U0GIN_tkUHszf/view?usp=sharing">Bernoulli Inequality</a></li>
 
 
 
-<li> <a href="https://www.dropbox.com/s/lf58tu3z3zu0w4f/TrigIdentity.pdf?dl=0">Summation of sine and cosine</a></li>
+<li> <a href="https://drive.google.com/file/d/147d3sZUziu6NE9cdMp9gkZDAIptAH5tG/view?usp=sharing">Summation of sine and cosine</a></li>
 
 
 
-<li> <a href="https://www.dropbox.com/s/imfywebvbabebj0/1_over_a_b_sin.pdf?dl=0">Evaluating \(\displaystyle \int_0^{\pi/2} \dfrac{dt}{1+r\sin(t)}\) and related integrals </a></li>
+<li> <a href="https://drive.google.com/file/d/1lPzHm5hC3KUbrNOsFQl-dl7nC0ctGng0/view?usp=sharing">Evaluating \(\displaystyle \int_0^{\pi/2} \dfrac{dt}{1+r\sin(t)}\) and related integrals </a></li>
 
 
 
 
 
-<li> <a href="https://www.dropbox.com/s/eqzcbfa9q34rbbb/limit_n_power_one_over_n.pdf?dl=0">An elegant way to prove that \(\lim_{n \to \infty} n^{1/n}=1\)</a></li>
-<li> <a href="https://www.dropbox.com/s/csqxgvt8mfeszit/Infinite_Product_Identity.pdf?dl=0">_An infinite product identity; Solution to SIAM problem posted by Carlo Sanna</a></li>
+<li> <a href="https://drive.google.com/file/d/1H_6YX56lT4VCJ2eipogivuUPDn7wGdAY/view?usp=sharing">An elegant way to prove that \(\lim_{n \to \infty} n^{1/n}=1\)</a></li>
+
+
+
+<li> <a href="https://drive.google.com/file/d/1EkSisIj53v2Jg8TMBgVA7HqRQLfe25qI/view?usp=sharing">An infinite product identity; Solution to SIAM problem posted by Carlo Sanna</a></li>
 
 
 
