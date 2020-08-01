@@ -4,8 +4,8 @@
 - title: "Teaching"
   href: "/teaching/"
   subcategories:
-	  - subtitle: "Jan-May 2020: Applied Statistics"
-	  	subhref: "http://sivaramambikasaran.com/2020_APPSTAT/"
+    - subtitle: "Jan-May 2020: Applied Statistics"
+      subhref: "http://sivaramambikasaran.com/2020_APPSTAT/"
     # - subtitle: "Jan-May 2020: Numerical Optimization"
     #   subhref: "http://sivaramambikasaran.com/2020_NOPT/"
     # - subtitle: "Jan-May 2020: Probability, Statistics and Stochastic Process"
