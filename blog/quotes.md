@@ -7,6 +7,8 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- "Who lives well hidden, lives well." -- Descartes motto, which he took from Ovid
+
 - "Chess is like life: it is not about collecting material goods and counting them at the end. It is about finding fulfilment and joy through being the best that you can be and making the biggest possible mark on your surroundings. Or in short, to deliver checkmate!" -- Ilya Smirin in his book King's Indian Warfare.
 
 - "As I have told you, theory is very good indeed, but how are we to carry it into practice? If it be absolutely impracticable, no theory is of any value whatever, except as intellectual gymnastics." - Swami Vivekananda in his Practical Vedanta
