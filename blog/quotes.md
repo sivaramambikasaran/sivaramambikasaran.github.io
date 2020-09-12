@@ -7,6 +7,10 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- "To become good at anything you have to know how to apply basic principles. To become great at it, you have to know when to violate those principles.” -Garry Kasparov, Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins 
+
+- "Life is not a problem to be solved, but a reality to be experienced." -Soren Kierkegaard
+
 - "Who lives well hidden, lives well." -- Descartes motto, which he took from Ovid
 
 - "Chess is like life: it is not about collecting material goods and counting them at the end. It is about finding fulfilment and joy through being the best that you can be and making the biggest possible mark on your surroundings. Or in short, to deliver checkmate!" -- Ilya Smirin in his book King's Indian Warfare.
