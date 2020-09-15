@@ -7,6 +7,8 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- "Chess doesn't drive people mad, it keeps mad people sane." - former British chess champion William Hartston
+
 - "To become good at anything you have to know how to apply basic principles. To become great at it, you have to know when to violate those principles.” -Garry Kasparov, Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins 
 
 - "Life is not a problem to be solved, but a reality to be experienced." -Soren Kierkegaard
