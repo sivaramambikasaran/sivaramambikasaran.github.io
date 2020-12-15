@@ -7,13 +7,17 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- "Subjectivity is truth and Truth is subjectivity" -- Søren Kierkegaard in his book 'Concluding Unscientific Postscript to Philosophical Fragments'
+
+- "I despise rascals who want me to think the way they want and who want to believe their opinions/interpretations as facts" -- Krishnamurti Ramanathan Iyer
+
 - "In any system or process, if success is your goal, you have failed." -- Sankaran Ramakrishnan.
 
 - "Chess doesn't drive people mad, it keeps mad people sane." -- former British chess champion William Hartston
 
 - "To become good at anything you have to know how to apply basic principles. To become great at it, you have to know when to violate those principles.” -- Garry Kasparov, Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins 
 
-- "Life is not a problem to be solved, but a reality to be experienced." -- Soren Kierkegaard
+- "Life is not a problem to be solved, but a reality to be experienced." -- Søren Kierkegaard
 
 - "Who lives well hidden, lives well." -- Descartes motto, which he took from Ovid
 
