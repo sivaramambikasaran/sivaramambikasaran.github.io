@@ -7,6 +7,8 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- "He who suffers (works) before it is necessary, suffers (works) more than necessary." -- Seneca
+
 - "Subjectivity is truth and Truth is subjectivity" -- Søren Kierkegaard in his book 'Concluding Unscientific Postscript to Philosophical Fragments'
 
 - "I despise rascals who want me to think the way they want and who want to believe their opinions/interpretations as facts" -- Krishnamurti Ramanathan Iyer
