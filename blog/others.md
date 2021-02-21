@@ -14,16 +14,9 @@ Some interesting articles:
 * [In praise of idleness](http://www.zpub.com/notes/idle.html)
 * [The way society trains individuals to serve the needs of the society](https://www.youtube.com/watch?v=teLoNYvOf90)
 
-Personal writing:
-
-* [An epitaph for my grand father, R. Krishnamurti](https://www.dropbox.com/s/q6iy95gscnvqk7j/RK.pdf?dl=0)
-
 Others:
 
 * [PhD comics](http://phdcomics.com/)
-* [Here is a pic of me when I was around 10 years old](https://www.dropbox.com/s/lm9lvn43v332l6p/siva.jpg?dl=0)
-* [My e-signature](https://www.dropbox.com/s/qrei67kf63jp3k4/Signature.png?dl=0)
-* [My academic genealogy](https://www.dropbox.com/s/sb9xpyg1lohhqi3/Genealogy.png?dl=0)
 * [If you want to email me any document, do not send '.doc'/'.docx' documents; send me a '.pdf' instead. Any email containing '.doc'/'.docx' as attachment is directed to my email trash](http://www.gnu.org/philosophy/no-word-attachments.html)
 * [Three logicians in a bar](https://www.dropbox.com/s/9qkkj8pd8lyrtvc/445-three-logicians-walk-into-a-bar.png?dl=0)
 

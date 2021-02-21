@@ -42,12 +42,6 @@
     # - subtitle: "Fall 2013: Algebra & Calculus"
     #   subhref: "/teaching/AC2013/"
 
-- title: "Bio"
-  href: "/bio/"
-
-# - title: "CV"
-#   href: "/cv/"
-
 
 - title: "Blog"
   href: "/blog/"
