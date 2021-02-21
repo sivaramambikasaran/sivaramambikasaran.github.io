@@ -1,10 +1,6 @@
 # Site settings
 title: Sivaram Ambikasaran
-email: email@sivaramambikasaran.com
-email: sivaambi@alumni.stanford.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a computational scientist with research interests in numerical linear algebra and approximation theory. Topics on the site include
-  my research, teaching, Blog, etc.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sivaramambikasaran.com" # the base hostname & protocol for your site
 
