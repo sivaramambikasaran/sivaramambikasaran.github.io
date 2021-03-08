@@ -66,7 +66,7 @@ to which Nimzowitsch replied, "but he threatens to smoke, and being an older pla
 
 - "I have never let my schooling interfere with my education." -- Allen Grant (though often it is attributed to Mark Twain)
 
-- "Only the meek, weak and poor keep talking about fairness, justice and equality." -- Krishnamurti Ramanathan Iyer
+- "Only the weak, poor, jealous, incapable idiots keep talking about fairness, justice and equality." -- Krishnamurti Ramanathan Iyer
 
 - "Meeting is where minutes are kept and hours are lost"
 
