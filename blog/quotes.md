@@ -52,6 +52,8 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 - "Immense Harm Is Caused by the Belief That Work Is Virtuous." -- Bertrand Russell in his essay In praise of Idleness
 
+- "Lion sleeps 18 hours a day but a donkey works 18 hours a day. If hardwork is the secret to success, then donkey would have been the king of the jungle."
+
 - "Education, in the truest self of the term, is a process of self-discovery. It is the art of self-sculpture. It trains the individual not so much in specific skills or in specific branch of knowledge, but in the flowering of his or her latent intellectual, artistic and humanist capacities. The test of education is whether it imparts an urge for learning and learnability, not this or that particular set of information." -- Prime Minister Atal Bihari Vajpayee in his inaugural speech of the Golden Jubilee Celebrations of the University Grants Commission
  
 - "Real humor contains more inner truth than the most earnest seriousness." -- Nimzowitsch in his book `My system'.
@@ -80,9 +82,9 @@ to which Nimzowitsch replied, "but he threatens to smoke, and being an older pla
 
 - "But what do you do when a department [in a university] goes bad? André Weil suggested that there is a logarithmic law at work: first-rate people attract other first-rate people, but second-rate people tend to hire third-raters, and third-rate people hire fifth-raters. If a dean or a president is genuinely interested in building and maintaining a high-quality university (and some of them are), then he must not grant complete self-determination to a second-rate department; he must, instead, use his administrative powers to intervene and set things right. That's one of the proper functions of deans and presidents, and pity the poor university in which a large proportion of both the faculty and the administration are second-raters; it is doomed to diverge to minus infinity." -- French mathematician André Weil once mentioned to Paul Halmos an unconscious formula that weaker academic departments used when hiring new faculty.
 
-- "The pleasure in the pursuit of useless research is amplified by the fact that it cannot be put to misuse." -- Self
+- "The pleasure in the pursuit of useless research is amplified by the fact that it cannot be put to misuse."
 
-- "The pen is mightier than the sword only when people are willing to read/listen. The sword, hence, still has its relevance." -- Self
+- "The pen is mightier than the sword only when people are willing to read/listen. The sword, hence, still has its relevance."
 
 - "Discovery consists of seeing what everybody has seen and thinking what nobody has thought" -- Albert Szent-Györgyi
 
@@ -103,9 +105,9 @@ Before you die: live<br>
 
 - "To do high, real good physics work you do need absolutely solid lengths of time, so that when you’re putting ideas together which are vague and hard to remember, it’s very much like building a house of cards and each of the cards is shaky, and if you forget one of them the whole thing collapses again. You don’t know how you got there and you have to build them up again, and if you’re interrupted and kind of forget half the idea of how the cards went together—your cards being different-type parts of the ideas, ideas of different kinds that have to go together to build up the idea—the main point is, you put the stuff together, it’s quite a tower and it’s easy [for it] to slip, it needs a lot of concentration—that is, solid time to think—and if you’ve got a job in administrating anything like that, then you don’t have the solid time." So I have invented another myth for myself—that I’m irresponsible. I tell everybody, I don’t do anything. If anybody asks me to be on a committee to take care of admissions, no, I’m irresponsible, I don’t give a damn about the students—of course I give a damn about the students but I know that somebody else’ll do it—and I take the view, “Let George do it,” a view which you’re not supposed to take, okay, because that’s not right to do, but I do that because I like to do physics and I want to see if I can still do it, and so I’m selfish, okay?" -- Richard Feynman
 
-- "A good computation is the one that does the least computation to obtain the right answer." -- Self
+- "A good computation is the one that does the least computation to obtain the right answer."
 
-- "It is more worthy to believe in good people than in God." -- Self
+- "It is more worthy to believe in good people than in God."
 
 - "Everyone should be respected as an individual, but no one idolized." -- Albert Einstein
 
