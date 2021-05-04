@@ -7,7 +7,7 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
-- "Two of the biggest scams of our time: (i) Insurance, (ii) Vaccines; And as with all good scams only a tiny part of the scam is true/valid/useful."
+- "Two of the biggest scams of our time: (i) Insurance, (ii) Vaccines; Both these scams rely on fear mongering. And as with all good scams only a tiny part of the scam is in principle useful/true/valid."
 
 - "Any civilized society by definition has to be a pretentious and slave society"
 
