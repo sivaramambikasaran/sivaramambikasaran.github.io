@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: blog/quotes/
 ---
-Most of these quotes have been stolen from different online resources. Some of them are from conversations I had or overheard. A tiny fraction of them are mine.
+Most of these quotes have been stolen from different online resources. Some of them are from conversations I had or overheard.
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
