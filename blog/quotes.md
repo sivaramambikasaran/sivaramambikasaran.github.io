@@ -7,19 +7,15 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
-- "The difference between a rogue and gentleman is that the former is capable of roguery while the latter is not capable of roguery or the latter pretends to be a gentleman."
+- "The purpose of our lives is to be happy." - Dalai Lama
 
-- "Two of the biggest scams of our time: (i) Insurance, (ii) Vaccines; Both these scams rely on fear mongering. And as with all good scams only a tiny part of the scam is in principle useful/true/valid."
-
-- "Any civilized society by definition has to be a pretentious and slave society"
+- "Laziness is nothing more than the habit of resting before you get tired."
 
 - "Sarcasm is the lowest form of wit but the highest form of intelligence" -- Oscar Wilde
 
 - "He who suffers (works) before it is necessary, suffers (works) more than necessary." -- Seneca
 
 - "Subjectivity is truth and Truth is subjectivity" -- Søren Kierkegaard in his book 'Concluding Unscientific Postscript to Philosophical Fragments'
-
-- "I despise rascals who want me to think the way they want and who want to believe their opinions/interpretations as facts" -- Krishnamurti Ramanathan Iyer
 
 - "In any system or process, if success is your goal, you have failed." -- Sankaran Ramakrishnan.
 
@@ -34,8 +30,6 @@ Most of these quotes have been stolen from different online resources. Some of t
 - "Chess is like life: it is not about collecting material goods and counting them at the end. It is about finding fulfilment and joy through being the best that you can be and making the biggest possible mark on your surroundings. Or in short, to deliver checkmate!" -- Ilya Smirin in his book King's Indian Warfare.
 
 - "As I have told you, theory is very good indeed, but how are we to carry it into practice? If it be absolutely impracticable, no theory is of any value whatever, except as intellectual gymnastics." - Swami Vivekananda in his Practical Vedanta
-
-- "Goodbye Theory! Hello, Data and Computing".
 
 - Andy Roberts (around 36-37 minutes into the documentary Fire in Babylon), when asked if he felt right on him and Michael Holding terrorizing and hitting the English batsmen with their bowling on 1976 England tour. "I always feel when I hit a batsman. The sympathy is in here (pointing to his heart); You may not see it and I cannot show the batsman that. It is just that I have a job to do."
 
@@ -74,8 +68,6 @@ to which Nimzowitsch replied, "but he threatens to smoke, and being an older pla
 
 - "I have never let my schooling interfere with my education." -- Allen Grant (though often it is attributed to Mark Twain)
 
-- "Only the weak, poor, jealous, incapable idiots keep talking about fairness, justice and equality." -- Krishnamurti Ramanathan Iyer
-
 - "Meeting is where minutes are kept and hours are lost"
 
 - "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." -- Oscar Wilde
@@ -87,10 +79,6 @@ to which Nimzowitsch replied, "but he threatens to smoke, and being an older pla
 - "There is no such thing as a new idea. It is impossible. We simply take a lot of old ideas and put them into a sort of mental kaleidoscope. We give them a turn and they make new and curious combinations." -- Mark Twain
 
 - "But what do you do when a department [in a university] goes bad? André Weil suggested that there is a logarithmic law at work: first-rate people attract other first-rate people, but second-rate people tend to hire third-raters, and third-rate people hire fifth-raters. If a dean or a president is genuinely interested in building and maintaining a high-quality university (and some of them are), then he must not grant complete self-determination to a second-rate department; he must, instead, use his administrative powers to intervene and set things right. That's one of the proper functions of deans and presidents, and pity the poor university in which a large proportion of both the faculty and the administration are second-raters; it is doomed to diverge to minus infinity." -- French mathematician André Weil once mentioned to Paul Halmos an unconscious formula that weaker academic departments used when hiring new faculty.
-
-- "The pleasure in the pursuit of useless research is amplified by the fact that it cannot be put to misuse."
-
-- "The pen is mightier than the sword only when people are willing to read/listen. The sword, hence, still has its relevance."
 
 - "Discovery consists of seeing what everybody has seen and thinking what nobody has thought" -- Albert Szent-Györgyi
 
@@ -105,28 +93,15 @@ Before you quit: try<br>
 Before you die: live<br>
 -- Unknown author
 
-- "It is better to be not successful in things you find interesting than being successful in things you do not find interesting."
-
 - "In mathematics, not just number theory alone, in general and probably in science as a whole what you have learn is you have to learn how to use the tools and if you just know one tool and you really know how to use it you can probably make a career out of it." -- Maruti Ram Pedaprolu Murty, while talking about Abel's partial summation technique as part of Analytical Number Theory short course at the Institute of Mathematical Sciences, Chennai, India
 
 - "To do high, real good physics work you do need absolutely solid lengths of time, so that when you’re putting ideas together which are vague and hard to remember, it’s very much like building a house of cards and each of the cards is shaky, and if you forget one of them the whole thing collapses again. You don’t know how you got there and you have to build them up again, and if you’re interrupted and kind of forget half the idea of how the cards went together—your cards being different-type parts of the ideas, ideas of different kinds that have to go together to build up the idea—the main point is, you put the stuff together, it’s quite a tower and it’s easy [for it] to slip, it needs a lot of concentration—that is, solid time to think—and if you’ve got a job in administrating anything like that, then you don’t have the solid time." So I have invented another myth for myself—that I’m irresponsible. I tell everybody, I don’t do anything. If anybody asks me to be on a committee to take care of admissions, no, I’m irresponsible, I don’t give a damn about the students—of course I give a damn about the students but I know that somebody else’ll do it—and I take the view, “Let George do it,” a view which you’re not supposed to take, okay, because that’s not right to do, but I do that because I like to do physics and I want to see if I can still do it, and so I’m selfish, okay?" -- Richard Feynman
-
-- "A good computation is the one that does the least computation to obtain the right answer."
-
-- "It is more worthy to believe in good people than in God."
 
 - "Everyone should be respected as an individual, but no one idolized." -- Albert Einstein
 
 - "The opposite of courage in our society is not cowardice, it is conformity." -- Rollo May
 
 - "If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?" -- Albert Einstein
-
-- "We are drowning in data but starving for knowledge".
-
-- "Water, water, everywhere,
-Nor any drop to drink.
-Data, data, everywhere,
-No one knows a thing."
 
 - "In God we trust, rest bring data" -- W. Edwards Deming
 
@@ -166,8 +141,6 @@ Neither can you crack a nut."<br>
 
 - "People do acquire a little brief authority by equipping themselves with jargon: they can pontificate and air a superficial expertise. But what we should ask of educated mathematicians is not what they can speechify about, nor even what they know about the existing corpus of mathematical knowledge, but rather what can they do with their learning and whether they can actually solve mathematical problems arising in practice. In short, we look for deeds not words." -- J. Hammersley
 
-- "The art is more important than the artist." -- Self
-
 - "If you find that you're spending almost all your time on theory, start turning some attention to practical things; it will improve your theories. If you find that you're spending almost all your time on practice, start turning some attention to theoretical things; it will improve your practice." -- Donald Knuth
 
 - "I learned very early the difference between knowing the name of something and knowing something." -- Richard Feynman
@@ -188,11 +161,7 @@ Neither can you crack a nut."<br>
 
 - "Science and technology are great, but nothing beats fun."
 
-- "Science and technology are great, but nothing beats love and care." -- Self
-
 - "If Euler were alive today, he wouldn't be proving existence theorems." -- Nick Trefethen in his book Numerical Linear Algebra. Trefethen missed out another sentence, which should read as "He would rather be constructing solutions or showing non-existence." -- My addition; I have deliberately used the word showing instead of proving, since some of Euler's "proofs" may not meet the rigorous criteria of proof as defined by modern mathematics.
-
-- "The culmination of mathematical understanding of a problem is the ability to compute the right solution (to a desired accuracy) and the ability to plot & visualize it. If you are unable to solve a problem, you haven't understood the problem." -- Self
 
 - "Greed, for lack of a better word, is good. Greed is right. Greed works. Greed clarifies, cuts through, and captures, the essence of the evolutionary spirit. Greed, in all of its forms; greed for life, for money, for love, knowledge, has marked the upward surge of mankind ..." -- Gordon Gekko
 
@@ -223,8 +192,6 @@ Lead us from death to immortality  <br>
 Om peace peace peace"  <br>
 
 - "Weak people take revenge; Strong people forgive; Intelligent people ignore"
-
-- "A person who forgives is a great human being; A person who seeks for forgiveness is an even greater human being"
 
 - "The venue of the meeting is as important as the content of the meeting" -- Overheard at Duffield atrium at Cornell University
 

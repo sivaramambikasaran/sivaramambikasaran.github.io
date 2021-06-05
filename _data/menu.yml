@@ -48,8 +48,8 @@
 - title: "Blog"
   href: "/blog/"
   subcategories:
-    - subtitle: "Notes"
-      subhref: "/blog/notes/"
+    - subtitle: "Opinions"
+      subhref: "/blog/opinions/"
     - subtitle: "Quotes"
       subhref: "/blog/quotes/"
     - subtitle: "Others"
