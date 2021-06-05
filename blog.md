@@ -10,7 +10,7 @@ Much (if not all) of this Blog is a collection of useless stuff. A full listing 
 
 ### <a href="./opinions">Opinions</a>
 
-Some of my opinions (Not for the faint-hearted)
+Some of my opinions (Not for conformists and the faint-hearted)
 
 ### <a href="./quotes">Quotes</a>
 
