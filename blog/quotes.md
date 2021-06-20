@@ -7,6 +7,8 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- "Chess, like love, is infectious at any age" - Flohr
+
 - "The purpose of our lives is to be happy." - Dalai Lama
 
 - "Laziness is nothing more than the habit of resting before you get tired."
