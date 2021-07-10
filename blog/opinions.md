@@ -7,7 +7,7 @@ permalink: blog/opinions/
 <span style="color:lime">"“Any clod can have the facts, but having opinions is an art.” – Charles McCabe
 </span>
 
-- <a href="https://drive.google.com/file/d/1rx1xMsyfTOlY-85O0_pwdLRKen29F3yf/view?usp=sharing">The sad truth on how science has evolved.</a>
+<!-- - <a href="https://drive.google.com/file/d/1rx1xMsyfTOlY-85O0_pwdLRKen29F3yf/view?usp=sharing">The sad truth on how science has evolved.</a> -->
 
 - "The difference between a rogue and gentleman is that the former is capable of roguery while the latter is not capable of roguery or the latter pretends to be a gentleman."
 
