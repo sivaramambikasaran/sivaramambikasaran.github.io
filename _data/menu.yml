@@ -4,8 +4,13 @@
 - title: "Teaching"
   href: "/teaching/"
   subcategories:
-      - subtitle: "May-July 2021: Numerical Optimization"
-        subhref: "http://sivaramambikasaran.com/2021_NOPT/"
+    - subtitle: "Jul-Nov 2021: Numerical Methods & Scientific Computing"
+      subhref: "http://sivaramambikasaran.com/NMSC_2021/"
+    - subtitle: "Jul-Nov 2020: Probability, Statistics and Stochastic Process"
+      subhref: "http://sivaramambikasaran.com/2021_PSS/"
+	
+	# - subtitle: "May-July 2021: Numerical Optimization"
+    #   subhref: "http://sivaramambikasaran.com/2021_NOPT/"
     # - subtitle: "Jan-May 2021: Numerical Methods & Scientific Computing"
     #   subhref: "http://sivaramambikasaran.com/2021_NMSC/"
     # - subtitle: "Aug-Dec 2020: Applied Statistics"
