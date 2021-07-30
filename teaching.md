@@ -12,6 +12,8 @@ This page serves as a directory for the courses I am teaching and have taught.
 
 ## Indian Institute of Technology Madras
 
+14. Jul-Nov, 2021: [Numerical Methods & Scientific Computing](http://sivaramambikasaran.com/NMSC_2021/)
+13. Jul-Nov, 2021: [Probability, Statistics and Stochastic Process](http://sivaramambikasaran.com/2021_PSS/)
 12. May-July, 2021: [Numerical Optimization](http://sivaramambikasaran.com/2021_NOPT/)
 11. Jan-May, 2021: [Numerical Methods & Scientific Computing](http://sivaramambikasaran.com/2021_NMSC/)
 10. Aug-Dec, 2020: [Applied Statistics](http://sivaramambikasaran.com/2020_APPSTAT/)
