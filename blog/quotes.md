@@ -8,6 +8,7 @@ Most of these quotes have been stolen from different online resources. Some of t
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
 - "All of humanity's problems stem from man's inability to sit quietly in a room alone" - Blaise Pascal
+- "Premature optimization is the root of all evil" - Donald Knuth
 - "A wise man can learn more from a foolish question than a fool can learn from a wise answer." - Bruce Lee
 - "Natural forces within us are the true healers of disease." - Hippocrates
 - "Chess, like love, is infectious at any age." - Flohr
