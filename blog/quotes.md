@@ -7,36 +7,22 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- "All of humanity's problems stem from man's inability to sit quietly in a room alone" - Blaise Pascal
 - "A wise man can learn more from a foolish question than a fool can learn from a wise answer." - Bruce Lee
-
 - "Natural forces within us are the true healers of disease." - Hippocrates
-
 - "Chess, like love, is infectious at any age." - Flohr
-
 - "The purpose of our lives is to be happy." - Dalai Lama
-
 - "Laziness is nothing more than the habit of resting before you get tired."
-
 - "Sarcasm is the lowest form of wit but the highest form of intelligence" -- Oscar Wilde
-
 - "He who suffers (works) before it is necessary, suffers (works) more than necessary." -- Seneca
-
 - "Subjectivity is truth and Truth is subjectivity" -- Søren Kierkegaard in his book 'Concluding Unscientific Postscript to Philosophical Fragments'
-
 - "In any system or process, if success is your goal, you have failed." -- Sankaran Ramakrishnan.
-
 - "Chess doesn't drive people mad, it keeps mad people sane." -- former British chess champion William Hartston
-
 - "To become good at anything you have to know how to apply basic principles. To become great at it, you have to know when to violate those principles.” -- Garry Kasparov, Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins 
-
 - "Life is not a problem to be solved, but a reality to be experienced." -- Søren Kierkegaard
-
 - "Who lives well hidden, lives well." -- Descartes motto, which he took from Ovid
-
 - "Chess is like life: it is not about collecting material goods and counting them at the end. It is about finding fulfilment and joy through being the best that you can be and making the biggest possible mark on your surroundings. Or in short, to deliver checkmate!" -- Ilya Smirin in his book King's Indian Warfare.
-
 - "As I have told you, theory is very good indeed, but how are we to carry it into practice? If it be absolutely impracticable, no theory is of any value whatever, except as intellectual gymnastics." - Swami Vivekananda in his Practical Vedanta
-
 - Andy Roberts (around 36-37 minutes into the documentary Fire in Babylon), when asked if he felt right on him and Michael Holding terrorizing and hitting the English batsmen with their bowling on 1976 England tour. "I always feel when I hit a batsman. The sympathy is in here (pointing to his heart); You may not see it and I cannot show the batsman that. It is just that I have a job to do."
 
 
@@ -61,7 +47,7 @@ Most of these quotes have been stolen from different online resources. Some of t
 - "Lion sleeps 18 hours a day but a donkey works 18 hours a day. If hardwork is the secret to success, then donkey would have been the king of the jungle."
 
 - "Education, in the truest self of the term, is a process of self-discovery. It is the art of self-sculpture. It trains the individual not so much in specific skills or in specific branch of knowledge, but in the flowering of his or her latent intellectual, artistic and humanist capacities. The test of education is whether it imparts an urge for learning and learnability, not this or that particular set of information." -- Prime Minister Atal Bihari Vajpayee in his inaugural speech of the Golden Jubilee Celebrations of the University Grants Commission
- 
+
 - "Real humor contains more inner truth than the most earnest seriousness." -- Nimzowitsch in his book `My system'.
 
 - "Tactics flow from a superior position" -- Fischer
