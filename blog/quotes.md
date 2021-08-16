@@ -7,6 +7,7 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- "The truth of the matter is that not everybody can learn everything" - Charlie Munger
 - "All of humanity's problems stem from man's inability to sit quietly in a room alone" - Blaise Pascal
 - "Premature optimization is the root of all evil" - Donald Knuth
 - "A wise man can learn more from a foolish question than a fool can learn from a wise answer." - Bruce Lee
