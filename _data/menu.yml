@@ -8,13 +8,3 @@
       subhref: "http://sivaramambikasaran.com/NMSC_2021/"
     - subtitle: "Jul-Nov 2021: Probability, Statistics and Stochastic Process"
       subhref: "http://sivaramambikasaran.com/2021_PSS/"
-
-- title: "Blog"
-  href: "/blog/"
-  subcategories:
-    - subtitle: "Opinions"
-      subhref: "/blog/opinions/"
-    - subtitle: "Quotes"
-      subhref: "/blog/quotes/"
-    - subtitle: "Others"
-      subhref: "/blog/others/"
