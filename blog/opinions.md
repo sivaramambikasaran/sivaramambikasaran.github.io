@@ -9,6 +9,20 @@ permalink: blog/opinions/
 
 <!-- - <a href="https://drive.google.com/file/d/1rx1xMsyfTOlY-85O0_pwdLRKen29F3yf/view?usp=sharing">The sad truth on how science has evolved.</a> -->
 
+- Simple decisions to be rich and happy
+
+  - Read, Learn
+  - Have hobbies. If one of your hobbies is your profession, consider yourself to be lucky and have few more hobbies.
+  - Avoid social media, 24x7, emails, chats, etc.
+  - Never own a credit card
+  - Never take a loan/EMI
+  - Buying a house is not an investment
+  - Take care of the pennies and the pounds will take care of themselves
+  - Buy things that you will utilise
+  - Invest money in good business and invest time in yourself
+
+  All the above are not only easy to preach but also easy to practice. The irony is that majority in the modern society won't practice, thanks to mindless consumerism and FOMO.
+
 - "The difference between a rogue and gentleman is that the former is capable of roguery while the latter is not capable of roguery or the latter pretends to be a gentleman."
 
 - "Two of the biggest scams of our time: (i) Insurance, (ii) Vaccines; Both these scams rely on fear mongering. And as with all good scams only a tiny part of the scam is in principle useful/true/valid. Modern art is a close third."
