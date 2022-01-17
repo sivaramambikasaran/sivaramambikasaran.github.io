@@ -20,7 +20,7 @@ A collection of some interesting quotes
 
 
 
-<a href=".PJs">PJs</a>
+<a href="./PJs">PJs</a>
 
 
 
