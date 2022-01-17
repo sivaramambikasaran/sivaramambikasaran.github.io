@@ -18,6 +18,16 @@ Some of my opinions (Not for conformists and the faint-hearted)
 
 A collection of some interesting quotes
 
+
+
+<a href=".PJs">PJs</a>
+
+
+
+A collection of some PJs.
+
+
+
 ### <a href="./others">Others</a>
 
 Other random things under the sun
