@@ -7,6 +7,8 @@ permalink: blog/opinions/
 <span style="color:lime">"“Any clod can have the facts, but having opinions is an art.” – Charles McCabe
 </span>
 
+- We have exhausted only 5 Greek alphabets so far (as of Jan 1st, 2022). We still have 18 Greek alphabets remaining (not 19 since naming a variant as "Xi" has been banned for scientific reasons).
+
 - Diversity/Inclusion for the sake of diversity/inclusion is the most regressive step a society/organization can take. If men are good at and are over represented in certain domains/areas, then women are good at and are over represented in other domains/areas. I have always wondered why no one seems to talk about diversity/inclusivity in fields such as truck driving, plumbing, welding, car servicing, etc. What society needs is not an equal distribution of men and women in each and every profession. Rather the society needs to appreciate and respect each and every profession; appreciate and respect each and every individual. Let's try to work towards appreciating and respecting each and every profession, each and every individual, instead of corrupting young minds and dividing the society.
 
 - Simple decisions to be rich and happy
