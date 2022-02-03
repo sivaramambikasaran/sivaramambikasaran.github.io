@@ -7,6 +7,8 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- "என்றும் நடவாதது என் முயற்சிக்கினும் நடவாது; நடப்ப தென்றடை செய்யினும் நில்லாது.
+ இதுவே திண்ணம். ஆகலின் மௌனமா யிருக்கை நன்று.” - Ramana Maharishi
 - "The truth of the matter is that not everybody can learn everything" - Charlie Munger
 - "All of humanity's problems stem from man's inability to sit quietly in a room alone" - Blaise Pascal
 - "Premature optimization is the root of all evil" - Donald Knuth
