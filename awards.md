@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /awards/
 ---
-<span style="color:orange"> <a href="https://www.youtube.com/watch?v=teLoNYvOf90">Awards are tools society uses to train individuals to serve the needs of the society <a></span>
+<a href="https://www.youtube.com/watch?v=teLoNYvOf90">Awards are tools society uses to train individuals to serve the needs of the society <a>
 
 
 <ul>
