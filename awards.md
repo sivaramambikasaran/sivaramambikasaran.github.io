@@ -20,7 +20,7 @@ permalink: /awards/
 Simons Foundation fellowship under ``Science without Boundaries" of ICTS-TIFR, 2015.
 </li>
 <li>
-``INSPIRE Faculty Award" to young achievers for independent research and emerge as a leader in future science \& technology by the Department of Science & Technology, India, 2015.
+``INSPIRE Faculty Award" to young achievers for independent research and emerge as a leader in future science & technology by the Department of Science & Technology, India, 2015.
 </li>
 <li>
 Research Internship in Science and Engineering by Indo-US Science & Technology Forum at Tata Institute of Fundamental Research, Centre for Applicable Mathematics, Bangalore, 2011.
@@ -50,7 +50,7 @@ General Electric Scholar-Leader scholarship for academic achievements and leader
 One among 30 students from all over India, to get selected for the International Mathematical Olympiad Training Camp held at Homi Bhabha Center for Science and Education, Mumbai, India, 2002.
 </li>
 <li>
-First in Mathematics Olympiad held by Association of Mathematics Teachers of India, 2001 \& 2002.
+First in Mathematics Olympiad held by Association of Mathematics Teachers of India, 2001 & 2002.
 </li>
 <li>
 Fellowship by Nanyang Technological University, to pursue undergraduate education in Engineering, 2002 (declined).
