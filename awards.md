@@ -8,7 +8,7 @@ permalink: /awards/
 
 <ul>
 <li>
-<a href="http://www.tnasc.com/young-scientist-awards/">``Young Scientist Award" by The Academy of Sciences, Chennai</a>
+<a href="http://www.tnasc.com/young-scientist-awards/">``Young Scientist Award" by The Academy of Sciences, Chennai, 2020</a>
 </li>
 <li>
 <a href="http://www.tnasc.com/young-scientist-awards/">``Young Faculty Recognition Award" by Indian Institute of Technology, Madras, 2019.</a>
