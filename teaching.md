@@ -12,6 +12,8 @@ This page serves as a directory for the courses I am teaching and have taught.
 
 ## Indian Institute of Technology Madras
 
+25. Jul-Nov, 2020: [Applied Statistics](http://sivaramambikasaran.com/2022_APPSTAT/)
+24. Jul-Nov, 2022: [Probability, Statistics and Stochastic Process](http://sivaramambikasaran.com/2022_PSS/)
 23. Jan-May, 2022: [Numerical Optimization](http://sivaramambikasaran.com/2022_NOPT/)
 22. Jul-Nov, 2021: [Numerical Methods & Scientific Computing](http://sivaramambikasaran.com/NMSC_2021/)
 21. Jul-Nov, 2021: [Probability, Statistics and Stochastic Process](http://sivaramambikasaran.com/2021_PSS/)
