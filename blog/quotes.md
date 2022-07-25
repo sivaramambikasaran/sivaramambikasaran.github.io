@@ -7,6 +7,8 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- "When I was young, they called me a rebel. When I was middle-aged, they called me eccentric. Now that I'm old, I'm doing the same thing I've always done and they call me senile." - George Burns
+
 - "என்றும் நடவாதது என் முயற்சிக்கினும் நடவாது; நடப்ப தென்றடை செய்யினும் நில்லாது.
  இதுவே திண்ணம். ஆகலின் மௌனமா யிருக்கை நன்று.” - Ramana Maharishi
  
