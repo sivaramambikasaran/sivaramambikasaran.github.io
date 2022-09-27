@@ -7,6 +7,8 @@ permalink: blog/opinions/
 <span style="color:lime">"“Any clod can have the facts, but having opinions is an art.” – Charles McCabe
 </span>
 
+- It is better to be an honest rogue than a slippery good, nice hypocrite.
+
 - On the topic of QS rankings and getting to the top of QS rankings. "Imagine an UK agency ranking breakfasts. Probably it will have some cakes, some breads, some potatoes, some sausages in the top 10. Now to make it global (more "diverse" and "inclusive") the UK agency recruits some Indian guy, US guy, Chinese guy, Middle east guy, etc. They also use some "formula" to ensure that people belonging to different races, sexes, etc. are part of this "elite expert committee". They also decide to make it "transparent" (Okay, now all the "right adjectives" have been ticked) by listing out the calorie content in each food, ingredients, nutrients, etc. and the formula to arrive at the ranking. The Indian guy (who say happens to be say a Gujarati) pulls all his might and manages to get Dhokla in the top 10. Now as a Tam should I switch from my Idli/Dosa/Upma/Vada/Pongal to say Bagel with cream-cheese because it is the top ranked breakfast according to an "expert committee"? Or as an Indian should I switch to Dhokla for morning breakfast? Or should I switch to oatmeal because another competing agency gives more weightage to low glycemic index in its "formula" to arrive at the rankings. Should I go out of my way and invest all my might in ensuring that Idli gets into the top 10? or is it more worthwhile to rather perfect the art of making Idli/Dosa/Vada/Upma/Pongal to cater to people who have a natural liking towards these and others who may start having a liking towards the food?"
 
 - 20th century: Astrology is crap, fake;<br>
