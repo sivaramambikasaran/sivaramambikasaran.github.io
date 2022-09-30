@@ -14,6 +14,7 @@ Some interesting articles:
 * [The usefulness of useless knowledge](https://library.ias.edu/files/UsefulnessHarpers.pdf)
 * [In praise of idleness](http://www.zpub.com/notes/idle.html)
 * [The way society trains individuals to serve the needs of the society](https://www.youtube.com/watch?v=teLoNYvOf90)
+* [University rankings and unnecessary university administration must be eradicated?](http://sivaramambikasaran.com/blog/)
 
 Others:
 
