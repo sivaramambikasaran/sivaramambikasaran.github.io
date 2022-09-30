@@ -6,6 +6,7 @@ permalink: blog/others/
 
 Some interesting articles:
 
+* [University rankings and unnecessary university administration must be eradicated](http://sivaramambikasaran.com/blog/)
 * [How political correctness interferes with academic freedom, facts and universities’ mission](https://www.universityworldnews.com/post.php?story=20180926081313413)
 * [How Do People Get New Ideas?](https://www.technologyreview.com/s/531911/isaac-asimov-asks-how-do-people-get-new-ideas/)
 * [The Professor and the Politician](https://www.ias.edu/ideas/2016/baas-professor-and-politician)
@@ -14,7 +15,6 @@ Some interesting articles:
 * [The usefulness of useless knowledge](https://library.ias.edu/files/UsefulnessHarpers.pdf)
 * [In praise of idleness](http://www.zpub.com/notes/idle.html)
 * [The way society trains individuals to serve the needs of the society](https://www.youtube.com/watch?v=teLoNYvOf90)
-* [University rankings and unnecessary university administration must be eradicated?](http://sivaramambikasaran.com/blog/)
 
 Others:
 
