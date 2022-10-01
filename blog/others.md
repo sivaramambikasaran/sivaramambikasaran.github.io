@@ -6,7 +6,7 @@ permalink: blog/others/
 
 Some interesting articles:
 
-* [University rankings and unnecessary university administration must be eradicated](http://sivaramambikasaran.com/blog/)
+* [University rankings and unnecessary university administration must be eradicated](https://www.theguardian.com/us-news/2022/sep/16/columbia-whistleblower-us-news-rankings-michael-thaddeus)
 * [How political correctness interferes with academic freedom, facts and universities’ mission](https://www.universityworldnews.com/post.php?story=20180926081313413)
 * [How Do People Get New Ideas?](https://www.technologyreview.com/s/531911/isaac-asimov-asks-how-do-people-get-new-ideas/)
 * [The Professor and the Politician](https://www.ias.edu/ideas/2016/baas-professor-and-politician)
