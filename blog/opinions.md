@@ -7,6 +7,8 @@ permalink: blog/opinions/
 <span style="color:lime">"“Any clod can have the facts, but having opinions is an art.” – Charles McCabe
 </span>
 
+- Those who are "sane" are those who are not brave enough to be insane.
+
 - Obedience is a vice not a virtue.
 
 - It is better to be an honest rogue than a slippery good, nice hypocrite.
