@@ -7,7 +7,7 @@ Most of these quotes have been stolen from different books/online resources/ oth
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
-- From Chapter 7: Freedom, from the book "Psychology of Money": 
+- From the book "Psychology of Money" (Chapter 7: Freedom): 
 
 The job was intellectually stimulating, paid well, and made me feel important. But every waking second of my time became a slave to my boss’s demands, which was enough to turn it into one of the most miserable experiences of my life. It was a four-month internship. I lasted a month.
 
