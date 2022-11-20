@@ -3,9 +3,17 @@ layout: page
 title: 
 permalink: blog/quotes/
 ---
-Most of these quotes have been stolen from different online resources. Some of them are from conversations I had or overheard.
+Most of these quotes have been stolen from different books/online resources/ other places. Some of them are from conversations I had or overheard.
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
+
+- From Chapter 7: Freedom, from the book "Psychology of Money": "The job was intellectually stimulating, paid well, and made me feel important. But every waking second of my time became a slave to my boss’s demands, which was enough to turn it into one of the most miserable experiences of my life. It was a four-month internship. I lasted a month.
+
+The hardest thing about this was that I loved the work. And I wanted to work hard. But doing something you love on a schedule you can’t control can feel the same as doing something you hate.
+
+There is a name for this feeling. Psychologists call it reactance. Jonah Berger, a marketing professor at the University of Pennsylvania, summed it up well:
+
+"People like to feel like they’re in control—in the drivers’ seat. When we try to get them to do something, they feel disempowered. Rather than feeling like they made the choice, they feel like we made it for them. So they say no or do something else, even when they might have originally been happy to go along"
 
 - "When I was young, they called me a rebel. When I was middle-aged, they called me eccentric. Now that I'm old, I'm doing the same thing I've always done and they call me senile." - George Burns
 
