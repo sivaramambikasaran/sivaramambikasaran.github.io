@@ -38,15 +38,11 @@ A collection of some of my notes. Some of them were written for teaching purpose
 
 <ul>
 
-<li> <a href="https://drive.google.com/file/d/1UAft7Tc1RVqryXO5vX9jTvu0w--NcZI7/view?usp=sharing">Different ways of proving \(\displaystyle\int_{\mathbb{R}} e^{-x^2}dx\)</a></li>_
-
-
+<li> <a href="https://drive.google.com/file/d/1UAft7Tc1RVqryXO5vX9jTvu0w--NcZI7/view?usp=sharing">Different ways of proving \(\displaystyle\int_{\mathbb{R}} e^{-x^2}dx\)</a></li>
 
 <li> <a href="https://drive.google.com/open?id=13ObnVZBAHAgNLWLMtqjENF-errZCyvBl">Evaluating \(\displaystyle \int_0^{\pi/2} \sin^k(t) dt\) or \(\displaystyle \int_0^{\pi/2} \cos^k(t) dt\)</a></li>
 
-
-
-<li> <a href="https://drive.google.com/file/d/1y52rEzYuhnedPvyUnszfuZy3i74P4oec/view?usp=sharing">Wallis formula: \(\dfrac{\pi}2 = \displaystyle \prod_{n=1}^{\infty} \left(\dfrac{2n}{2n-1} \cdot \dfrac{2n}{2n+1}\right)\) and asymptotic of the central binomial coefficient</a></li>_
+<li> <a href="https://drive.google.com/file/d/1y52rEzYuhnedPvyUnszfuZy3i74P4oec/view?usp=sharing">Wallis formula: \(\dfrac{\pi}2 = \displaystyle \prod_{n=1}^{\infty} \left(\dfrac{2n}{2n-1} \cdot \dfrac{2n}{2n+1}\right)\) and asymptotic of the central binomial coefficient</a></li>
 
 
 
@@ -214,7 +210,7 @@ A collection of some of my notes. Some of them were written for teaching purpose
 <!--	NUMERICAL	-->
 <!--	NUMERICAL	-->
 
-#### Numerical
+#### Numerical Analysis and Scientific Computing
 
 <li> <a href="https://www.dropbox.com/s/65908o202oidchf/Catastrophic_Round_Off.pdf?dl=0">Catastrophic round-off in finite arithmetic</a>. The file <a href="https://www.dropbox.com/s/sdmbz3iid1oqyyz/catastrophic_round_off.m?dl=0">catastrophic_round_off.m</a>. </li>
 <li> <a href="https://www.dropbox.com/s/6vrqsml3of5yz55/Solving_uxx%3Df_numerically.pdf?dl=0">Solving \(u_{xx}=f\) numerically</a></li>
