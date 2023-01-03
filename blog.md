@@ -10,7 +10,7 @@ permalink: /blog/
 
 Much (if not all) of this Blog is a collection of useless stuff. A full listing of my blog posts follows.
 
-### <a href="./notes">Notes</a>
+### <a href="./../notes">Notes</a>
 
 My notebook
 
