@@ -20,4 +20,4 @@ Some points for students to consider before deciding to work with me:
 
 <h2><font color="magenta">For students approaching me for recommendation letters</font></h2>
 
-I provide recommendation only to students who have done research work with me for a considerable period of time. Though I welcome you to take my class, I am no longer writing reference letters for students who have attended my class.
+I provide recommendation only to students who have done research work with me for a considerable period of time. Though I welcome you to take my class, I am no longer writing reference letters for students who have attended my class(es).
