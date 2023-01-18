@@ -16,6 +16,7 @@ Some points for students to consider before deciding to work with me:
 <li> You will need to have some exposure to programming.</li>
 <li> Don't expect quick fix ``research".</li>
 <li> Don't expect me to hand hold you. You are in-charge of the project. I am only a wall to bounce ideas and to guide you. You will have to do the work.</li>
+<li> You will need to take care of the administrative stuff, like scheduling your talk, figuring out how to submit your thesis, etc. You may contact your department office and they will guide you.</li>
 <li> Last but probably the most important point; You should communicate (both written and oral) clearly in English. I am not a psychologist; hence I am not capable of reading your mind.</li>
 
 <br> </br>
