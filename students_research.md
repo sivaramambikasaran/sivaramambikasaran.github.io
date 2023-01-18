@@ -14,7 +14,7 @@ Some points for students to consider before deciding to work with me:
 <li> You will need to invest considerable amount of time (minimum of 1 year).</li>
 <li> You will need to have a problem solving mentality.</li>
 <li> You will need to have some exposure to programming or at least be willing to learn programming. Even if your work is completely theoretical, I want the students to know how to program. </li>
-<li> Don't expect quick fix ``research".</li>
+<li> Don't expect quick fix "research".</li>
 <li> Don't expect me to hand hold you. You are in-charge of the project. I am only a wall to bounce ideas and to guide you. You will have to do the work.</li>
 <li> You will need to take care of the administrative stuff, like scheduling your talk, figuring out how to submit your thesis, etc. You may contact your department office and they will guide you.</li>
 <li> Last but probably the most important point; You should communicate (both written and oral) clearly in English. I am not a psychologist; hence I am not capable of reading your mind.</li>
