@@ -19,8 +19,7 @@ Some points for students to consider before deciding to work with me:
 <li> You will need to take care of the administrative stuff, like scheduling your talk, figuring out how to submit your thesis, etc. You may contact your department office and they will guide you.</li>
 <li> Last but probably the most important point; You should communicate (both written and oral) clearly in English. I am not a psychologist; hence I am not capable of reading your mind.</li>
 
-<br> </br>
-<br> </br>
+<br>
 
 <h2><font color="cyan">For students approaching me for recommendation letters</font></h2>
 
