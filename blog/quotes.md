@@ -7,6 +7,8 @@ Most of these quotes have been stolen from different books/online resources/ oth
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+-  “I have often pondered over the roles of knowledge or experience, on the one hand, and imagination or intuition, on the other, in the process of discovery. I believe that there is a certain fundamental conflict between the two, and knowledge, by advocating caution, tends to inhibit the flight of imagination. Therefore, a certain naiveté, unburdened by conventional wisdom, can sometimes be a positive asset.” - Harish Chandra, Mathematician and Physicist
+
 - From the book "Psychology of Money" (Chapter 7: Freedom): 
 
 The job was intellectually stimulating, paid well, and made me feel important. But every waking second of my time became a slave to my boss’s demands, which was enough to turn it into one of the most miserable experiences of my life. It was a four-month internship. I lasted a month.
