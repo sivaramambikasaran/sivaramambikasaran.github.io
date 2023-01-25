@@ -7,6 +7,8 @@ Most of these quotes have been stolen from different books/online resources/ oth
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- "The single most important thing in life is to believe in yourself regardless of what everyone else says." - Hikaru Nakamura
+
 -  “I have often pondered over the roles of knowledge or experience, on the one hand, and imagination or intuition, on the other, in the process of discovery. I believe that there is a certain fundamental conflict between the two, and knowledge, by advocating caution, tends to inhibit the flight of imagination. Therefore, a certain naiveté, unburdened by conventional wisdom, can sometimes be a positive asset.” - Harish Chandra, Mathematician and Physicist
 
 - From the book "Psychology of Money" (Chapter 7: Freedom): 
