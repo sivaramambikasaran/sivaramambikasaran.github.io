@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sivaramambikasaran.com
+Token: 6776ed9991b9c1dbd7cbc45596f2b69081d8113f75b2f3c171b8e7f083f14287
