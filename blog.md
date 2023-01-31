@@ -18,7 +18,7 @@ My notebook
 
 Some of my opinions (Not for conformists and the faint-hearted)
 
-### <a href="./quotes">Quotes</a>
+### <a href="./../quotes">Quotes</a>
 
 A collection of some interesting quotes
 
