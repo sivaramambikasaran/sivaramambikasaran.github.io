@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: blog/quotes/
+permalink: /quotes/
 ---
 Most of these quotes have been stolen from different books/online resources/ other places. Some of them are from conversations I had or overheard.
 
