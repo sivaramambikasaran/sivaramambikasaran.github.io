@@ -7,7 +7,7 @@ Most of these quotes have been stolen from different books/online resources/ oth
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
-- "Chess is neither a science nor an art. It is what human nature most delights in--a fight." - Emanuel Lasker
+- "Chess is neither a science nor an art. It is what human nature most delights in – a fight." - Emanuel Lasker
 
 - "The single most important thing in life is to believe in yourself regardless of what everyone else says." - Hikaru Nakamura
 
