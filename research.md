@@ -17,3 +17,18 @@ Welcome to the Stable Accurate Fast Robust Algorithms & Numerics (SAFRAN) group.
 [Articles](https://scholar.google.co.in/citations?user=h2hgRJoAAAAJ&hl=en)
 
 [Code](https://github.com/sivaramambikasaran)
+
+Current students:
+
+Sumit Singh
+Ritesh Khan
+Kandappan
+Vaishnavi
+
+Alumni (First field in parathesis indicates their role in the team; Second field inside paranthesis indicates first job after graduating/leaving the group):
+
+Shyam Sankaran (Project Assistant; Master's student at Oxford)
+Karan Raj Singh (Project Assistant; Civil Service)
+Nachiketa (PostDoc; Faculty at IIITDM)
+Abhay Gupta (Master's student; Data Scientist at Flipkart)
+Pragnesh (Master's student; Data Scientist at Epsilon)
