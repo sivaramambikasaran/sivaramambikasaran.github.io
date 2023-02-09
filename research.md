@@ -14,18 +14,18 @@ permalink: /research/
 Welcome to the Stable Accurate Fast Robust Algorithms & Numerics (SAFRAN) team. Our team's current research focuses on constructing highly accurate fast algorithms leveraging approximation theory and numerical linear algebra.
 
 
-####[Articles](https://scholar.google.co.in/citations?user=h2hgRJoAAAAJ&hl=en)
+[Articles](https://scholar.google.co.in/citations?user=h2hgRJoAAAAJ&hl=en)
 
-####[Code](https://github.com/sivaramambikasaran)
+[Code](https://github.com/sivaramambikasaran)
 
-####Current students:
+##Current students:
 
 <li>Sumit Singh</li>
 <li>Ritesh Khan</li>
 <li>Kandappan</li>
 <li>Vaishnavi</li>
 
-####Alumni:
+##Alumni:
 
 First field in parenthesis indicates their role in the team; Second field inside parentheses indicates first job after graduating/leaving;
 
