@@ -1,4 +1,4 @@
----
+team---
 layout: page
 title: 
 permalink: /research/
@@ -11,7 +11,7 @@ permalink: /research/
 
 <img src="./image.png" width="100%">
 
-Welcome to the Stable Accurate Fast Robust Algorithms & Numerics (SAFRAN) group. Our group's current research focuses on constructing highly accurate fast algorithms leveraging approximation theory and numerical linear algebra.
+Welcome to the Stable Accurate Fast Robust Algorithms & Numerics (SAFRAN) team. Our team's current research focuses on constructing highly accurate fast algorithms leveraging approximation theory and numerical linear algebra.
 
 
 [Articles](https://scholar.google.co.in/citations?user=h2hgRJoAAAAJ&hl=en)
@@ -25,7 +25,7 @@ Ritesh Khan
 Kandappan
 Vaishnavi
 
-Alumni (First field in parathesis indicates their role in the team; Second field inside paranthesis indicates first job after graduating/leaving the group):
+Alumni (First field in parenthesis indicates their role in the team; Second field inside parentheses indicates first job after graduating/leaving):
 
 Shyam Sankaran (Project Assistant; Master's student at Oxford)
 Karan Raj Singh (Project Assistant; Civil Service)
