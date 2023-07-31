@@ -29,7 +29,7 @@ This page serves as a directory for the courses I am teaching and have taught.
 14. Aug-Dec, 2019: [Numerical Methods & Scientific Computing](https://sivaramambikasaran.com/2019_NMSC)
 13. Jan-May, 2019: [Computer Modelling and Simulation](https://sivaramambikasaran.com/2019_CMS)
 12. Jan-May, 2019: [Probability, Statistics and Stochastic Process](https://sivaramambikasaran.com/2019_PSS)
-11. Aug-Dec, 2018: [Numerical Linear Algebra]((https://sivaramambikasaran.com/2018_NLA))
+11. Aug-Dec, 2018: [Numerical Linear Algebra](https://sivaramambikasaran.com/2018_NLA)
 10. Jan-May, 2018: [Computer Modelling and Simulation](https://sivaramambikasaran.com/2018_CMS)
 9. Jan-May, 2018: [Probability, Statistics and Stochastic Process](https://sivaramambikasaran.com/2018_PSS)
 
