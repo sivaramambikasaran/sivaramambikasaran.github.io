@@ -12,7 +12,7 @@ This page serves as a directory for the courses I am teaching and have taught.
 
 ## Indian Institute of Technology Madras
 
-28. Jul-Nov, 2023: [Programming Lab] (https://sivaramambikasaran.com/PL_2023/)
+28. Jul-Nov, 2023: [Programming Lab](https://sivaramambikasaran.com/PL_2023/)
 27. Jul-Nov, 2023: [Numerical Linear Algebra](https://sivaramambikasaran.com/NLA_2023/)
 26. Jan-May, 2023: [Numerical Analysis](https://sivaramambikasaran.com/2023_NA/)
 25. Jul-Nov, 2022: [Applied Statistics](https://sivaramambikasaran.com/2022_APPSTAT/)
