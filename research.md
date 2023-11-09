@@ -20,15 +20,18 @@ Welcome to the Stable Accurate Fast Robust Algorithms & Numerics (SAFRAN) team. 
 
 <h4>Current students</h4>
 
+<li>Bishwajeet Singh</li>
+<li>Gadade Navnath Ankush</li>
 <li>Sumit Singh</li>
 <li>Ritesh Khan</li>
-<li>Kandappan</li>
-<li>Vaishnavi</li>
+
 
 <h4>Alumni</h4>
 
 First field in parenthesis indicates their role in the team; Second field inside parentheses indicates first job after graduating/leaving;
 
+<li>Kandappan (Ph.D. student; Faculty at Department of Computer Science at Shiv Nadar University Chennai)</li>
+<li>Vaishnavi (Ph.D. student; Postdoctoral fellow at IISc)</li>
 <li>Shyam Sankaran (Project Assistant; Master's student at Oxford)</li>
 <li>Karan Raj Singh (Project Assistant; Civil Service)</li>
 <li>Nachiketa (PostDoc; Faculty at IIITDM)</li>
