@@ -12,6 +12,8 @@ This page serves as a directory for the courses I am teaching and have taught.
 
 ## Indian Institute of Technology Madras
 
+31. Jul-Nov, 2024: [Calculus for Engineers](https://sivaramambikasaran.com/2024_CFE/)
+30. Jul-Nov, 2024: [Numerical Linear Algebra](https://sivaramambikasaran.com/2024_NLA/)
 29. Jan-May, 2024: [Probability, Statistics and Stochastic Process](https://sivaramambikasaran.com/2024_PSS/)
 28. Jul-Nov, 2023: [Programming Lab](https://sivaramambikasaran.com/PL_2023/)
 27. Jul-Nov, 2023: [Numerical Linear Algebra](https://sivaramambikasaran.com/NLA_2023/)
