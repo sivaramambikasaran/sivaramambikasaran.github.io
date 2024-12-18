@@ -23,6 +23,13 @@ There is a name for this feeling. Psychologists call it reactance. Jonah Berger,
 
 "People like to feel like they’re in control—in the drivers’ seat. When we try to get them to do something, they feel disempowered. Rather than feeling like they made the choice, they feel like we made it for them. So they say no or do something else, even when they might have originally been happy to go along"
 
+- "The passion for playing chess is one of the most unaccountable in the world. It slaps the theory of natural selection in the face. It is the most absorbing of occupations. The least satisfying of desires. A nameless excrescence upon life. It annihilates a man. You have, let us say, a promising politician, a rising artist that you wish to destroy. Dagger or bomb are archaic and unreliable - but teach him, inoculate him with chess." - H.G. Wells
+  
+- "When one of us first play chess, he is like a man who has already caught a dose of microbes of, say, Hong Kong' flu. Such a man walks along the street, and he does not yet know that he is ill. He is healthy, he feels fine, but the microbes are doing their work.
+
+Something similar, though less harmful, occur in chess. You have just been shown that the knight moves like the Russian letter Γ, the bishop diagonally, the castle (note, the castle, not the rook) in a straight line, while the queen likes her own colour. You lost the first game. But at some time, if your father or your elder brother or simply an old friendwants to be kind to you, then you win, and as a result feel very proud of yourself. A few days pass, and suddenly you involurantily begin to sense that, without chess, there is something missing in your life. Then you may rejoice: you belong to that group of people without a natural immunity to the chess disease ..." From Life and games of Tal
+
+
 - "When I was young, they called me a rebel. When I was middle-aged, they called me eccentric. Now that I'm old, I'm doing the same thing I've always done and they call me senile." - George Burns
 
 - "என்றும் நடவாதது என் முயற்சிக்கினும் நடவாது; நடப்ப தென்றடை செய்யினும் நில்லாது.
