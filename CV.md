@@ -14,6 +14,7 @@ Wadhwani School of Data Science & Artificial Intelligence,<br>
 Indian Institute of Technology Madras
 
 
+<br>
 
 <h1>Previous Appointments</h1>
 
@@ -38,7 +39,7 @@ Faculty, ICTS, Tata Institute of Fundamental Research
 Courant Institute of Mathematical Sciences, New York University
 </li>
 
-
+<br>
 
 <h1>Education</h1>
 
@@ -48,7 +49,7 @@ Courant Institute of Mathematical Sciences, New York University
 <li>M.S. in Statistics, Stanford University, June 2013</li>
 <li>B.Tech & M.Tech (Dual Degree), IIT Madras, July 2007</li>
 
-
+<br>
 
 <h1>Professional Honors & Awards</h1>
 
@@ -59,7 +60,7 @@ Courant Institute of Mathematical Sciences, New York University
 <li>“INSPIRE Faculty Award” to young achievers for independent research and emerge as a leader in future science
 & technology by the Department of Science & Technology, India, 2015</li>
 
-
+<br>
 
 <h1>Honors & Awards as student</h1>
 
