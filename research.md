@@ -20,6 +20,9 @@ Welcome to the Stable Accurate Fast Robust Algorithms & Numerics (SAFRAN) team. 
 
 <h4>Current students</h4>
 
+<li>Shrirup Dutta</li>
+<li>Kaustuva Ghosh</li>
+<li>Ramesh Babu</li>
 <li>Bishwajeet Singh</li>
 <li>Gadade Navnath Ankush</li>
 <li>Sumit Singh</li>
