@@ -14,6 +14,7 @@ Wadhwani School of Data Science & Artificial Intelligence,<br>
 Indian Institute of Technology Madras
 
 
+
 <h1>Previous Appointments</h1>
 
 <li>November 2023 - March 2025:<br>
@@ -37,15 +38,17 @@ Faculty, ICTS, Tata Institute of Fundamental Research
 Courant Institute of Mathematical Sciences, New York University
 </li>
 
+
+
 <h1>Education</h1>
 
 
-|    | 		Discipline | 		University/Institution | Year |
-| --- | 		--- |---|---|
-| Ph.D.  | Numerical Linear Algebra    | Stanford University | 2013|
-| M.S. | Computational Mathematics & Engineering    |Stanford University | 2013|
-| M.S. | Statistics    |Stanford University | 2013|
-| B.Tech & M.Tech (Dual Degree) | Aerospace Engineering    |IIT Madras | 2007|
+<li>Ph.D. (Thesis title: Fast Algorithms for Dense Numerical Linear Algebra), Stanford University, June 2013</li>
+<li>M.S. in Computational and Mathematical Engineering, Stanford University, June 2013</li>
+<li>M.S. in Statistics, Stanford University, June 2013</li>
+<li>B.Tech & M.Tech (Dual Degree), IIT Madras, July 2007</li>
+
+
 
 <h1>Professional Honors & Awards</h1>
 
@@ -55,6 +58,8 @@ Courant Institute of Mathematical Sciences, New York University
 <li>Simons Foundation fellowship under “Science without Boundaries” of ICTS-TIFR, 2015</li>
 <li>“INSPIRE Faculty Award” to young achievers for independent research and emerge as a leader in future science
 & technology by the Department of Science & Technology, India, 2015</li>
+
+
 
 <h1>Honors & Awards as student</h1>
 
