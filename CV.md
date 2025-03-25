@@ -40,7 +40,7 @@ Courant Institute of Mathematical Sciences, New York University
 <h4>Education</h4>
 
 |    		 | Discipline | University/Institution | Year |
-| -------- | ---------- |---------- |---------- |
+| -------- | ---------- |---------- |---------- |---------- |
 | Ph.D.  | Numerical Linear Algebra    | Stanford University | 2013|
 | M.S. | Computational Mathematics \& Engineering    |Stanford University | 2013|
 | M.S. | Statistics    |Stanford University | 2013|
