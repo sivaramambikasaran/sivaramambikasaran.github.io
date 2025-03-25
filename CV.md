@@ -44,7 +44,7 @@ Courant Institute of Mathematical Sciences, New York University
 | Ph.D.  | Numerical Linear Algebra    | Stanford University | 2013|
 | M.S. | Computational Mathematics & Engineering    |Stanford University | 2013|
 | M.S. | Statistics    |Stanford University | 2013|
-| B.Tech & M.Tech (Dual Degree) | Aerospace Engineering    |IIT Madras | 2017|
+| B.Tech & M.Tech (Dual Degree) | Aerospace Engineering    |IIT Madras | 2007|
 
 <h1>Professional Honors & Awards</h1>
 
