@@ -5,21 +5,21 @@ permalink: /CV/
 ---
 
 
-<h4>Current Academic Appointment</h4>
+<h1>Current Academic Appointment</h1>
 
 Associate Professor,<br>
 Department of Mathematics,<br>
-Department of Data Science \& Artificial Intelligence,<br>
-Wadhwani School of Data Science \& Artificial Intelligence,<br>
+Department of Data Science & Artificial Intelligence,<br>
+Wadhwani School of Data Science & Artificial Intelligence,<br>
 Indian Institute of Technology Madras
 
 
-<h4>Previous Appointments</h4>
+<h1>Previous Appointments</h1>
 
 <li>November 2023 - March 2025:<br>
 Assistant Professor,<br>
-Department of Data Science \& Artificial Intelligence,<br>
-Wadhwani School of Data Science \& Artificial Intelligence,<br>
+Department of Data Science & Artificial Intelligence,<br>
+Wadhwani School of Data Science & Artificial Intelligence,<br>
 Indian Institute of Technology Madras
 <li>September 2017 - March 2025:<br>
 Assistant Professor,<br>
@@ -37,7 +37,7 @@ Faculty, ICTS, Tata Institute of Fundamental Research
 Courant Institute of Mathematical Sciences, New York University
 </li>
 
-<h4>Education</h4>
+<h1>Education</h1>
 
 |    		 | Discipline | University/Institution | Year |
 | -------- | ---------- |---------- |---------- |---------- |
@@ -46,7 +46,7 @@ Courant Institute of Mathematical Sciences, New York University
 | M.S. | Statistics    |Stanford University | 2013|
 | B.Tech \& M.Tech (Dual Degree) | Aerospace Engineering    |IIT Madras | 2017|
 
-<h4>Professional Honors & Awards</h4>
+<h1>Professional Honors & Awards</h1>
 
 <li>“Young Scientist Award” by The Academy of Sciences, Chennai, 2020</li>
 <li>“Young Faculty Recognition Award” by Indian Institute of Technology, Madras, 2019</li>
@@ -55,7 +55,7 @@ Courant Institute of Mathematical Sciences, New York University
 <li>“INSPIRE Faculty Award” to young achievers for independent research and emerge as a leader in future science
 & technology by the Department of Science & Technology, India, 2015</li>
 
-<h4>Honors & Awards as student</h4>
+<h1>Honors & Awards as student</h1>
 
 <li>Research Internship in Science and Engineering by Indo-US Science & Technology Forum at Tata Institute of
 Fundamental Research, Centre for Applicable Mathematics, Bangalore, 2011.</li>
