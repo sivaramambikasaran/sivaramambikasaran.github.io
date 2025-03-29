@@ -3,11 +3,17 @@ layout: page
 title: 
 permalink: /Projects/
 ---
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+
 # Projects
 <table>
 <tbody>
 
-<tr> <td> <font color =yellow> Title </font> </td> <td> <font color =yellow>Funding Agency </font>  </td> <td> <font color =yellow>Value  </font> </td> <td> <font color =yellow>Duration  </font> </td> <td> <font color =yellow>Role </font>  </td> </tr>
+<tr> <th> <font color =yellow> Title </font> </th> <th> <font color =yellow>Funding Agency </font>  </th> <th> <font color =yellow>Value  </font> </th> <th> <font color =yellow>Duration  </font> </th> <th> <font color =yellow>Role </font>  </th> </tr>
 
 <tr> <td> Core Research Grant </td> <td> SERB/ANRF </td> <td> ₹ 33 Lakhs </td> <td> Oct 2024-Oct 2027 </td> <td> PI  </td> </tr>
 <tr> <td> MATRICS </td> <td> SERB </td> <td> ₹ 6 Lakhs </td> <td> Mar 2020-Mar 2023 </td> <td> PI  </td> </tr>
