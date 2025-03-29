@@ -5,7 +5,7 @@ permalink: /Projects/
 ---
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid red;
 }
 </style>
 
