@@ -7,7 +7,7 @@ permalink: /Projects/
 <table>
 <tbody>
 
-<tr> <td> Title </td> <td> Funding Agency </td> <td> Value </td> <td> Duration </td> <td> Role </td> </tr>
+<tr> <td> <font color =yellow> Title </font> </td> <td> <font color =yellow>Funding Agency </font>  </td> <td> <font color =yellow>Value  </font> </td> <td> <font color =yellow>Duration  </font> </td> <td> <font color =yellow>Role </font>  </td> </tr>
 
 <tr> <td> Core Research Grant </td> <td> SERB/ANRF </td> <td> ₹ 33 Lakhs </td> <td> Oct 2024-Oct 2027 </td> <td> PI  </td> </tr>
 <tr> <td> MATRICS </td> <td> SERB </td> <td> ₹ 6 Lakhs </td> <td> Mar 2020-Mar 2023 </td> <td> PI  </td> </tr>
