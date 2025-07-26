@@ -12,6 +12,7 @@ This page serves as a directory for the courses I am teaching and have taught.
 
 ## Indian Institute of Technology Madras
 
+33. Jul-Nov, 2025: [Introduction to Computational Physics](https://sivaramambikasaran.com/2025_CP/)
 32. Jan-May, 2025: [Computational Methods for Data Science](https://sivaramambikasaran.com/2025_CMDS/)
 31. Jul-Nov, 2024: [Calculus for Engineers](https://sivaramambikasaran.com/2024_CFE/)
 30. Jul-Nov, 2024: [Numerical Linear Algebra](https://sivaramambikasaran.com/2024_NLA/)
