@@ -7,6 +7,9 @@ Most of these quotes have been stolen from different books/online resources/ oth
 
 <span style="color:lime">"The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- "	Vishistadvaita is Advaita for the emotional heart;
+	Advaita is Vishistadvaita for the intelligent mind" - Source unknown
+
 - "For me, the best way to increase society's resistance to insulting or offensive speech is to allow a lot more of it. As with childhood diseases, you can better resist those germs to which you have been exposed. We need to build our immunity to taking offence, so that we can deal with issues that perfectly justified criticism can raise." - Rowan Atkinson
 
 - "Chess is neither a science nor an art. It is what human nature most delights in – a fight." - Emanuel Lasker
