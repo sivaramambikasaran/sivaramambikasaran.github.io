@@ -214,7 +214,7 @@ A collection of some of my notes. Some of them were written for teaching purpose
 
 <li> <a href="https://www.dropbox.com/s/65908o202oidchf/Catastrophic_Round_Off.pdf?dl=0">Catastrophic round-off in finite arithmetic</a>. The file <a href="https://www.dropbox.com/s/sdmbz3iid1oqyyz/catastrophic_round_off.m?dl=0">catastrophic_round_off.m</a>. </li>
 <li> <a href="https://www.dropbox.com/s/6vrqsml3of5yz55/Solving_uxx%3Df_numerically.pdf?dl=0">Solving \(u_{xx}=f\) numerically</a></li>
-<li> <a href="https://www.dropbox.com/s/ygcxj4pingvikj4/poly_interp.pdf?dl=0">Fundamental theorem of polynomial interpolation</a></li>
+<li> <a href="https://drive.google.com/file/d/13qUk0Qi4xgGI6nNp85CLmhbEaTQd9c2d/view?usp=sharing">Fundamental theorem of polynomial interpolation</a></li>
 <li> <a href="https://www.dropbox.com/s/e04ylz8tx6vanje/orthogonal_polynomials.pdf?dl=0">Orthogonal polynomials</a></li>
 <li> <a href="https://www.dropbox.com/s/464bqgr8k8clgq3/Chebyshev_Polynomials.pdf?dl=0">Chebyshev polynomials</a></li>
 <li> <a href="https://www.dropbox.com/s/d09m8z23se33bfm/Legendre_Polynomials.pdf?dl=0">Legendre polynomials</a></li>
