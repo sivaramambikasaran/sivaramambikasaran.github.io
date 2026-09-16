@@ -36,7 +36,9 @@ Indian Institute of Science
 Faculty, ICTS, Tata Institute of Fundamental Research
 </li>
 <li>August 2013 - May 2015: Courant Instructor,<br>
-Courant Institute of Mathematical Sciences, New York University
+Department of Mathematics,<br>
+Courant Institute of Mathematical Sciences,<br>
+New York University
 </li>
 
 <br>
