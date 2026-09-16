@@ -1,4 +1,4 @@
-### DISCLAIMER TO STUDENTS AND POTENTIAL COLLABORATORS
+#### DISCLAIMER TO STUDENTS AND POTENTIAL COLLABORATORS
 
 Please read the following before deciding to work or collaborate with me. I have been asked these questions several times, both in professional settings (during recruitment, promotion, and funding discussions) and in personal settings (at family gatherings, etc.).
 
