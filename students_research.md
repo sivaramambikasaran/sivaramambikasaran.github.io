@@ -20,7 +20,11 @@ Please read the following guidelines carefully before contacting me:
 
 - **Interns:** I do not have bandwidth to support short-term interns unless you are willing to work for couple of years.
 
-- **Potential Ph.D. students:** If you are an undergraduate/graduate student pursuing or holding a regular, in-person degree from a reputed college, university, or academic institution, you are welcome to email me regarding potential Ph.D opportunities. I strongly encourage you apply for funding via **INSPIRE, UGC, CSIR etc**.
+- **B.Tech., IDDD, M.Tech., M.S., M.Sc. students at IITM:** You are welcome to email me regarding project work. Please note that the projects will primarily involve industry-related, hands-on work for coursework based students.
+
+	If you are considering continuing for a Ph.D. after your project under my guidance, please let me know **at the outset** so that we can identify a suitable academic research project accordingly.
+
+- **Potential Ph.D. students:** If you are an undergraduate/graduate student pursuing or holding a regular, in-person degree from a reputed college, university, or academic institution with a good background in Mathematics, you are welcome to email me regarding potential Ph.D opportunities. I strongly encourage you apply for funding via **INSPIRE, UGC, CSIR etc**.
 
 - **Postdoctoral researchers:** If you are interested in a postdoctoral position, it is strongly encouraged that you have your own fellowship or funding secured, or are eligible to obtain independent funding through schemes such as **ANRF, NBHM, or other funding agencies**, before contacting me regarding postdoctoral opportunities.
 
