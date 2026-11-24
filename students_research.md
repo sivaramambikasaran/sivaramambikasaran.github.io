@@ -14,19 +14,19 @@ I receive a large number of inquiries every day from students and researchers se
 
 Please read the following guidelines carefully before contacting me:
 
-- **Online degrees and certifications:** I do not consider online degrees or certifications equivalent to regular, in-person academic degrees for recruitment or academic opportunities in my group. If your qualifications consist exclusively of online degrees or certifications, please do not email me regarding opportunities to work with me.
+- <font color="yellow">**Online degrees and certifications:**</font> I do not consider online degrees or certifications equivalent to regular, in-person academic degrees for recruitment or academic opportunities in my group. If your qualifications consist exclusively of online degrees or certifications, please do not email me regarding opportunities to work with me.
 
-- **Online degree programmes:** I do not encourage students pursuing online degree programmes to seek research or internship opportunities with me as part of their programme requirements.
+- <font color="yellow">**Online degree programmes:**</font> I do not encourage students pursuing online degree programmes to seek research or internship opportunities with me as part of their programme requirements.
 
-- **Interns:** I do not have bandwidth to support short-term interns unless you are willing to work for couple of years.
+- <font color="yellow">**Interns:**</font> I do not have bandwidth to support short-term interns unless you are willing to work for couple of years.
 
-- **B.Tech., IDDD, M.Tech., M.S., M.Sc. students at IITM:** You are welcome to email me regarding project work. Please note that the projects will primarily involve industry-related, hands-on work for coursework based students.
+- <font color="yellow">**B.Tech., IDDD, M.Tech., M.S., M.Sc. students at IITM:**</font> You are welcome to email me regarding project work. Please note that the projects will primarily involve industry-related, hands-on work for coursework based students.
 
 	If you are considering continuing for a Ph.D. after your project under my guidance, please let me know **at the outset** so that we can identify a suitable academic research project accordingly.
 
-- **Potential Ph.D. students:** If you are an undergraduate/graduate student pursuing or holding a regular, in-person degree from a reputed college, university, or academic institution with a good background in Mathematics, you are welcome to email me regarding potential Ph.D opportunities. I strongly encourage you apply for funding via **INSPIRE, UGC, CSIR etc**.
+- <font color="yellow">**Potential Ph.D. students:**</font> If you are an undergraduate/graduate student pursuing or holding a regular, in-person degree from a reputed college, university, or academic institution with a good background in Mathematics, you are welcome to email me regarding potential Ph.D opportunities. I strongly encourage you apply for funding via **INSPIRE, UGC, CSIR etc**.
 
-- **Postdoctoral researchers:** If you are interested in a postdoctoral position, it is strongly encouraged that you have your own fellowship or funding secured, or are eligible to obtain independent funding through schemes such as **ANRF, NBHM, or other funding agencies**, before contacting me regarding postdoctoral opportunities.
+- <font color="yellow">**Postdoctoral researchers:**</font> If you are interested in a postdoctoral position, it is strongly encouraged that you have your own fellowship or funding secured, or are eligible to obtain independent funding through schemes such as **ANRF, NBHM, or other funding agencies**, before contacting me regarding postdoctoral opportunities.
 
 Given the volume of inquiries I receive, please ensure that you meet the relevant criteria before emailing me. I appreciate your understanding.
 
